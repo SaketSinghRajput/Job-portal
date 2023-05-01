@@ -1,0 +1,84 @@
+/* ===== CORE ===== */
+/**
+ * 2.0 - Core CSS
+ *  2.3 - grid
+ */
+.noo-desktop-1 .noo-grid-item {
+  width: 100%;
+}
+.noo-desktop-2 .noo-grid-item {
+  width: 50%;
+}
+.noo-desktop-3 .noo-grid-item {
+  width: 33.333%;
+}
+.noo-desktop-4 .noo-grid-item {
+  width: 25%;
+}
+.noo-desktop-5 .noo-grid-item {
+  width: 20%;
+}
+.noo-desktop-6 .noo-grid-item {
+  width: 16.6666%;
+}
+@media (max-width: 992px) {
+  .noo-tablet-1 .noo-grid-item {
+    width: 100%;
+  }
+  .noo-tablet-2 .noo-grid-item {
+    width: 50%;
+  }
+  .noo-tablet-3 .noo-grid-item {
+    width: 33.333%;
+  }
+  .noo-tablet-4 .noo-grid-item {
+    width: 25%;
+  }
+  .noo-tablet-5 .noo-grid-item {
+    width: 20%;
+  }
+  .noo-tablet-5 .noo-grid-item {
+    width: 16.666%;
+  }
+}
+@media (max-width: 767px) {
+  .noo-mobile-2 .noo-grid-item {
+    width: 50%;
+  }
+  .noo-mobile-3 .noo-grid-item {
+    width: 33.333%;
+  }
+  .noo-mobile-4 .noo-grid-item {
+    width: 25%;
+  }
+  .noo-mobile-5 .noo-grid-item {
+    width: 20%;
+  }
+  .noo-tablet-6 .noo-grid-item {
+    width: 16.666%;
+  }
+}
+@media (max-width: 576px) {
+  .noo-mobile-1 .noo-grid-item {
+    width: 100%;
+  }
+}
+.noo-grid-item {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.noo-grid-col {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.is-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/*# sourceMappingURL=jobmonster-addon.css.map */

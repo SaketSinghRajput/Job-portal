@@ -1,0 +1,34 @@
+// Style Widget Noo Blog
+.noo-pl-item-wrap.hentry{
+	width: 100%;
+}
+.noo-blog-widget{
+	.noo-pl-content{
+		padding-left: 130px;
+		@media (max-width: 767px){
+			padding-left: 0;
+		}
+	}
+	.content-left{
+		position: absolute;
+	    top: 0;
+	    left: 0;
+	    .author-bio {
+	    	.author-avatar {
+	    		img{
+	    			-webkit-border-radius: 50%;
+				    border-radius: 50%;
+				    -webkit-box-shadow: 0 0 0 4px #ebeeef;
+				    -moz-box-shadow: 0 0 0 4px #ebeeef;
+				    -ms-box-shadow: 0 0 0 4px #ebeeef;
+				    -o-box-shadow: 0 0 0 4px #ebeeef;
+				    box-shadow: 0 0 0 4px #ebeeef;
+	    		}
+	    	}
+	    }
+	    @media (max-width: 767px){
+	    	position:relative;
+	    	display: none;
+	    }
+	}
+}

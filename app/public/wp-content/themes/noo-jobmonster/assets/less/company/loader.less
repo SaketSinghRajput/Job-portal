@@ -1,0 +1,652 @@
+@media (max-width: 991px) {
+    .noo-company-profile {
+        .noo-sidebar {
+            margin-top: 60px;
+        }
+
+        #company-photo .col-md-6 {
+            margin-bottom: 10px;
+            display: inline-block;
+        }
+    }
+}
+
+.noo-heading {
+    margin: 23px 0 8px;
+    padding: 0;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: @font-weight-semi-bold;
+}
+
+.noo-sub-title {
+    font-size: 18px;
+    line-height: 30px;
+    margin: 0;
+}
+.company-feature-grid__list{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    &.company-feature-grid__list-{
+        &2{
+            .company-feature-grid__item{
+                flex: 0 0 50%;
+            }
+        }
+        &3{
+            .company-feature-grid__item{
+                flex: 0 0 percentage(4/12);
+            }
+        }
+        &4{
+            .company-feature-grid__item{
+                flex: 0 0 percentage(3/12);
+            }
+        }
+        &5{
+            .company-feature-grid__item{
+                flex: 0 0 20%;
+            }
+        }
+        &6{
+            .company-feature-grid__item{
+                flex: 0 0 percentage(2/12);
+            }
+        }
+    }
+}
+.company-feature-grid__item{
+    padding: 15px;
+    text-align: center;
+    .company-feature-grid__item-image{
+        border: 1px solid @border-color-base;
+        border-radius: 3px;
+        padding: 15px;
+    }
+    @media (max-width: 767px) {
+       flex: 0 0 percentage(4/12) !important; 
+    }
+    @media (max-width: 420px) {
+       flex: 0 0 50% !important; 
+    }
+}
+.noo-page-heading {
+    .noo-company-heading {
+        color: @white;
+        .clearfix();
+
+        .noo-company-info {
+            float: left;
+            .clearfix();
+
+            .noo-company-avatar {
+                float: left;
+                overflow: hidden;
+                margin-top: 7px;
+
+                img {
+                    width: 150px;
+                }
+            }
+
+            .noo-company-info {
+                float: left;
+                margin-left: 25px;
+
+                .noo-company-name {
+                    font-size: 30px;
+                    line-height: 30px;
+                    text-transform: uppercase;
+                    font-weight: @font-weight-semi-bold;
+                    color: @white;
+                    margin-bottom: 6px;
+                    margin-top: 0;
+
+                    .count {
+                        font-size: 14px;
+                        line-height: 30px;
+                        letter-spacing: .5px;
+                        font-weight: normal;
+                        text-transform: lowercase;
+                        padding: 5px 10px;
+                        background-color: @primary-color;
+                        border-radius: 10px;
+                    }
+                }
+
+                .slogan {
+                    font-size: 14px;
+                    line-height: 23px;
+                    letter-spacing: .5px;
+                }
+            }
+        }
+
+        .noo-company-action {
+            float: right;
+            text-align: center;
+            font-family: @headings-font-family;
+            font-weight: @font-weight-semi-bold;
+
+            @media (max-width: 920px) {
+                float: left;
+            }
+
+            .noo-follow-company {
+                background: @brand-primary;
+                display: inline-block;
+                color: @white;
+                font-size: 16px;
+                letter-spacing: .5px;
+                padding: 5px 35px;
+                cursor: pointer;
+                margin-top: 25px;
+                .border-radius(20px);
+            }
+
+            .total-follow {
+                display: table;
+                font-size: 14px;
+                line-height: 30px;
+                letter-spacing: .5px;
+                width: 100%;
+                margin-top: 6px;
+            }
+        }
+
+        .company-social {}
+
+        .total-review {
+            display: inline-block;
+            margin: 6px;
+        }
+
+        .company-meta {
+            margin: 8px 0 0;
+        }
+    }
+}
+
+.noo-company-info-simple {
+    .clearfix();
+
+    .company-avatar {
+        float: left;
+        width: 100px;
+        overflow: hidden;
+
+        img {
+            width: 100px;
+        }
+    }
+
+    .company-info {
+        margin-left: 115px;
+
+        .company-name {
+            font-size: 18px;
+            line-height: 30px;
+            margin: 0 0 -3px;
+        }
+
+        .slogan {
+            font-size: 14px;
+            line-height: 23px;
+            letter-spacing: .5px;
+        }
+    }
+}
+
+.company-social {
+    padding: 6px 0;
+
+    a {
+        display: inline-block;
+        font-size: 10px;
+        line-height: 25px;
+        letter-spacing: .5px;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        color: @white;
+        margin-right: 6px;
+
+        &:hover {
+            background: @brand-primary;
+        }
+
+        &.fa-facebook,
+        &.fa-facebook-f{
+            background: #5873b1;
+        }
+
+        &.fa-twitter {
+            background: #4099FF;
+        }
+
+        &.fa-google-plus,
+        &.fa-link {
+            background: #d34836;
+        }
+
+        &.fa-linkedin {
+            background: #4875B4;
+        }
+
+        &.fa-pinterest {
+            background: #C92228;
+        }
+
+        &.fa-instagram,
+        &.fa-envelope-o {
+            background: #517fa4;
+        }
+    }
+}
+
+.noo-form-comment {
+    .noo-comment-item {
+        margin-bottom: 20px;
+
+        input[type="text"] {
+            border: 1px solid #e1e1e1;
+            font-size: 14px;
+            letter-spacing: .5px;
+            padding: 6px 20px;
+            width: 100%;
+            margin-top: 10px;
+        }
+
+        >label {
+            color: #44494b;
+            font-size: 16px;
+            line-height: 30px;
+            font-weight: @font-weight-semi-bold;
+            float: left;
+            padding: 3px 15px 3px 0;
+        }
+
+        .container-rating {
+            display: flex;
+            align-items: center;
+
+            .label-rating {
+                padding-right: 10px;
+            }
+        }
+    }
+
+    textarea {
+        width: 100%;
+        border: 1px solid #e1e1e1;
+        font-size: 14px;
+        letter-spacing: .5px;
+        padding: 6px 20px;
+        margin-bottom: 20px;
+        min-height: 115px;
+    }
+}
+
+.noo-rating {
+    float: left;
+}
+
+.noo-list-comment {
+    list-style: none;
+    padding: 0;
+    margin: 22px 0 30px;
+
+    .comment-item {
+        background: #f9f9f9;
+        padding: 14px 23px 3px;
+        margin-bottom: 10px;
+
+        .subject {
+            font-size: 14px;
+            font-weight: @font-weight-semi-bold;
+            line-height: 23px;
+            letter-spacing: .5px;
+            color: #44494b;
+            float: left;
+            padding: 0 20px 0 0;
+            margin: 0;
+        }
+
+        .fa-caret-down {
+            padding: 0 10px;
+        }
+
+        time {
+            float: right;
+        }
+
+        .user-name {
+            padding: 2px 8px;
+            display: inline-block;
+        }
+
+        .comment-head,
+        .comment-info {
+            .clearfix();
+        }
+
+        .comment-info {
+            .er-rate-count {
+                display: block;
+            }
+
+            .noo-box-reviewed {
+                position: relative;
+                cursor: pointer;
+            }
+
+            .noo-review-voted {
+                display: none;
+                background: white;
+                box-shadow: 0 7px 85px 0 rgba(0, 0, 0, 0.2);
+                padding: 20px 0px 20px 50px;
+                border-radius: 5px;
+                top: 30px;
+                left: -100px;
+                position: absolute;
+                z-index: 1;
+
+            }
+
+            .line-vote {
+                display: flex;
+
+                span {
+                    min-width: 160px;
+                }
+            }
+        }
+
+        .comment-content {
+            color: #44494b;
+            font-size: 14px;
+            line-height: 23px;
+            letter-spacing: .5px;
+        }
+    }
+}
+
+.noo-comment-item .noo-rating {
+    padding: 4px;
+}
+
+.noo-company-review {
+    .noo-sub-title {
+        .label-review {
+            float: left;
+            margin-right: 12px;
+        }
+
+        .total-review {
+            >span {
+                font-size: 16px;
+                line-height: 30px;
+            }
+        }
+    }
+}
+
+.company-list {
+    .company-item {
+        margin-bottom: 30px;
+        border: 1px solid fade(@border-color-base, 50%);
+        position: relative;
+
+        .company-item-thumbnail {
+            padding: 35px;
+            position: relative;
+
+            .btn-company {
+                position: absolute;
+                top: 40%;
+                left: 50%;
+                transform: translate(-50%, -150%);
+                opacity: 0;
+                z-index: 21;
+                transition: transform 200ms linear, background 0.2s ease;
+                -moz-transition: transform 200ms linear, background 0.2s ease;
+                -webkit-transition: transform 200ms linear, background 0.2s ease;
+            }
+
+            &:hover {
+                &:after {
+                    opacity: 1;
+                    transition: opacity .4s ease-in-out;
+                    -moz-transition: opacity .4s ease-in-out;
+                    -webkit-transition: opacity .4s ease-in-out;
+                }
+
+                .btn-company {
+                    display: block;
+                    opacity: 1;
+                    transform: translate(-50%, 0);
+                    transition: transform 200ms linear, background 0.2s ease;
+                    -moz-transition: transform 200ms linear, background 0.2s ease;
+                    -webkit-transition: transform 200ms linear, background 0.2s ease;
+                }
+
+                img {
+                    filter: blur(4px);
+                }
+            }
+
+            &:after {
+                opacity: 0;
+                background: fade(@white, 30%);
+                content: "";
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                z-index: 20;
+                transition: opacity .4s ease-in-out;
+                -moz-transition: opacity .4s ease-in-out;
+                -webkit-transition: opacity .4s ease-in-out;
+            }
+        }
+
+        .company-item-meta {
+            border-top: 1px solid fade(@border-color-base, 50%);
+            padding: 15px 20px 15px;
+
+            a {
+                font-weight: @font-weight-semi-bold;
+                color: @text-color;
+                &:hover {
+                	color: @primary-color;
+                }
+            }
+
+            p {
+                margin: 0;
+                margin-top: 5px;
+            }
+
+            .job-count {
+                margin-left: 10px;
+                font-size: 14px;
+            }
+
+            .fa {
+                color: @brand-primary;
+            }
+
+            .total-review {
+                >span {}
+            }
+        }
+
+        &.featured-company {
+            &:before {
+                border-top: solid 0 transparent;
+                border-left: solid 50px @brand-primary;
+                border-bottom: solid 50px transparent;
+                position: absolute;
+                top: 0;
+                left: 0;
+                content: "";
+                z-index: 22;
+            }
+
+            &:after {
+                content: "\f005";
+                font-family: "Font Awesome 5 Free";
+                font-weight: 900;
+                position: absolute;
+                left: 8px;
+                top: 8px;
+                color: #fff;
+                z-index: 23;
+            }
+        }
+    }
+
+    .company-list-item {
+        &:nth-child(3n+1) {
+            clear: both;
+        }
+    }
+}
+
+.total-review {
+    font-family: @headings-font-family;
+}
+
+#company-photo {
+    margin-right: -15px;
+    margin-left: 0;
+
+    .col-md-4 {
+        max-height: 184px;
+    }
+
+    .col-md-6,
+    .col-md-4 {
+        padding: 0 15px 15px 0;
+    }
+
+    .col-md-6 {
+        img {
+            min-height: 140px
+        }
+    }
+}
+
+.noo-follow-company {
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+/* fix add portfolio  */
+#company-photo {
+    position: relative;
+    display: block;
+
+    a {
+        &:before {
+            border-top: 1px solid #fff;
+            border-bottom: 1px solid #fff;
+            -webkit-transform: scale(0, 1);
+            transform: scale(0, 1);
+            position: absolute;
+            left: 10px;
+            right: 10px;
+            top: 10px;
+            bottom: 10px;
+            content: '';
+            opacity: 0;
+            -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+            transition: opacity 0.35s, transform 0.35s;
+        }
+
+        &:after {
+            border-right: 1px solid #fff;
+            border-left: 1px solid #fff;
+            -webkit-transform: scale(1, 0);
+            transform: scale(1, 0);
+
+            position: absolute;
+            left: 10px;
+            right: 10px;
+            top: 10px;
+            bottom: 10px;
+            content: '';
+            opacity: 0;
+            -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+            transition: opacity 0.35s, transform 0.35s;
+        }
+
+        &:hover {
+            &:before {
+                opacity: 1;
+                -webkit-transform: scale(1);
+                transform: scale(1);
+                top: 10px;
+                right: 25px;
+                bottom: 20px;
+                left: 10px;
+            }
+
+            &:after {
+                opacity: 1;
+                -webkit-transform: scale(1);
+                transform: scale(1);
+                top: 10px;
+                right: 25px;
+                bottom: 20px;
+                left: 10px;
+            }
+        }
+    }
+}
+
+.noo_company-template-default {
+    .company-desc {
+        .company-info {
+            .company-custom-fields {
+                .content-meta {
+                    float: none !important;
+                }
+            }
+        }
+    }
+
+    .noo-company-style2 {
+        .noo-company-profile {
+            .company-custom-fields {
+                .content-meta {
+                    float: none !important;
+                }
+            }
+        }
+    }
+}
+
+.noo-feed-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    .noo-type-btn {
+        float: left;
+        margin-right: 10px;
+        -webkit-border-radius: 3px;
+        border-radius: 6px;
+        border: 1px solid #dedede;
+        padding: 10px 20px;
+        line-height: 1;
+
+        &:hover {
+            background-color: #dedede;
+        }
+    }
+}

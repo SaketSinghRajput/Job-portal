@@ -1,0 +1,46 @@
+.noo-faq {
+  .noo_faq_group {
+	.noo_faq_item {
+	  margin-bottom: 2px;
+	  display: block;
+	  &:last-child {
+		margin: 0;
+	  }
+	  &.hide_faq h4 {
+		padding: 0 0 15px;
+	  }
+	  .noo_faq_content {
+		color: #44494b;
+		font-size: 14px;
+		line-height: 30px;
+	  }
+	  h4 {
+		font-size: 16px;
+		line-height: 30px;
+		position: relative;
+		border-bottom: 1px solid #ececed;
+		font-weight: 500;
+		cursor: pointer;
+		&:after {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  font-family: "Font Awesome 5 Free";
+		  content: "\f106";
+		  font-weight: 900;
+		}
+	  }
+	  &.open_faq {
+		.noo_faq_content {
+		  display: block;
+		}
+		h4 {
+		  border-bottom: none;
+		  &:after {
+			content: "\f107";
+		  }
+		}
+	  }
+	}
+  }
+}

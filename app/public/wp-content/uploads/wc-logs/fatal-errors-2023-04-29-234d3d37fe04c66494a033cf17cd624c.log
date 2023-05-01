@@ -1,0 +1,127 @@
+2023-04-29T01:56:04+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php:531
+Stack trace:
+#0 /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php(531): in_array()
+#1 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(308): Noo_Member->user_profile()
+#2 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /opt/bitnami/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /opt/bitnami/wordpress/wp-admin/user-new.php(635): do_action()
+#5 {main}
+  thrown in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php on line 531
+
+2023-04-29T06:45:43+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php:531
+Stack trace:
+#0 /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php(531): in_array()
+#1 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(308): Noo_Member->user_profile()
+#2 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /opt/bitnami/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /opt/bitnami/wordpress/wp-admin/user-new.php(635): do_action()
+#5 {main}
+  thrown in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php on line 531
+
+2023-04-29T06:45:58+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php:531
+Stack trace:
+#0 /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php(531): in_array()
+#1 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(308): Noo_Member->user_profile()
+#2 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /opt/bitnami/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /opt/bitnami/wordpress/wp-admin/user-new.php(635): do_action()
+#5 {main}
+  thrown in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php on line 531
+
+2023-04-29T06:46:09+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php:531
+Stack trace:
+#0 /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php(531): in_array()
+#1 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(308): Noo_Member->user_profile()
+#2 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /opt/bitnami/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /opt/bitnami/wordpress/wp-admin/user-new.php(635): do_action()
+#5 {main}
+  thrown in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php on line 531
+
+2023-04-29T06:47:01+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php:531
+Stack trace:
+#0 /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php(531): in_array()
+#1 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(308): Noo_Member->user_profile()
+#2 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /opt/bitnami/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /opt/bitnami/wordpress/wp-admin/user-new.php(635): do_action()
+#5 {main}
+  thrown in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php on line 531
+
+2023-04-29T06:47:50+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php:531
+Stack trace:
+#0 /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php(531): in_array()
+#1 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(308): Noo_Member->user_profile()
+#2 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /opt/bitnami/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /opt/bitnami/wordpress/wp-admin/user-new.php(635): do_action()
+#5 {main}
+  thrown in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php on line 531
+
+2023-04-29T06:49:51+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php:531
+Stack trace:
+#0 /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php(531): in_array()
+#1 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(308): Noo_Member->user_profile()
+#2 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /opt/bitnami/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /opt/bitnami/wordpress/wp-admin/user-new.php(635): do_action()
+#5 {main}
+  thrown in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php on line 531
+
+2023-04-29T06:53:16+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php:531
+Stack trace:
+#0 /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php(531): in_array()
+#1 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(308): Noo_Member->user_profile()
+#2 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /opt/bitnami/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /opt/bitnami/wordpress/wp-admin/user-new.php(635): do_action()
+#5 {main}
+  thrown in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php on line 531
+
+2023-04-29T06:54:04+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php:531
+Stack trace:
+#0 /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php(531): in_array()
+#1 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(308): Noo_Member->user_profile()
+#2 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /opt/bitnami/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /opt/bitnami/wordpress/wp-admin/user-new.php(635): do_action()
+#5 {main}
+  thrown in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php on line 531
+
+2023-04-29T06:55:41+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php:531
+Stack trace:
+#0 /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php(531): in_array()
+#1 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(308): Noo_Member->user_profile()
+#2 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /opt/bitnami/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /opt/bitnami/wordpress/wp-admin/user-new.php(635): do_action()
+#5 {main}
+  thrown in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php on line 531
+
+2023-04-29T06:58:12+00:00 CRITICAL Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php:531
+Stack trace:
+#0 /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php(531): in_array()
+#1 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(308): Noo_Member->user_profile()
+#2 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /opt/bitnami/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /opt/bitnami/wordpress/wp-admin/user-new.php(635): do_action()
+#5 {main}
+  thrown in /bitnami/wordpress/wp-content/themes/noo-jobmonster/framework/admin/noo_member.php on line 531
+
+2023-04-29T13:41:22+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in /opt/bitnami/wordpress/wp-admin/includes/class-bulk-upgrader-skin.php:156
+Stack trace:
+#0 /opt/bitnami/wordpress/wp-admin/includes/class-bulk-upgrader-skin.php(156): sprintf()
+#1 /bitnami/wordpress/wp-content/themes/superio/inc/plugins/class-tgm-plugin-activation.php(3643): Bulk_Upgrader_Skin->after()
+#2 /opt/bitnami/wordpress/wp-admin/includes/class-wp-upgrader.php(841): TGMPA_Bulk_Installer_Skin->after()
+#3 /bitnami/wordpress/wp-content/themes/superio/inc/plugins/class-tgm-plugin-activation.php(3263): WP_Upgrader->run()
+#4 /bitnami/wordpress/wp-content/themes/superio/inc/plugins/class-tgm-plugin-activation.php(3376): TGMPA_Bulk_Installer->run()
+#5 /bitnami/wordpress/wp-content/themes/superio/inc/plugins/class-tgm-plugin-activation.php(2982): TGMPA_Bulk_Installer->bulk_install()
+#6 /bitnami/wordpress/wp-content/themes/superio/inc/plugins/class-tgm-plugin-activation.php(748): TGMPA_List_Table->process_bulk_actions()
+#7 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(308): TGM_Plugin_Activation->install_plugins_page()
+#8 /opt/bitnami/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /opt/bitnami/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /opt/bitnami/wordpress/wp-admin/admin.php(259): do_action()
+#11 /opt/bitnami/wordpress/wp-admin/themes.php(10): require_once('...')
+#12 {main}
+  thrown in /opt/bitnami/wordpress/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+

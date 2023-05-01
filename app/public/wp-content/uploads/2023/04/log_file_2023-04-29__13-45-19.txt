@@ -1,0 +1,177 @@
+
+---Downloaded files---
+The import files for: Home 1 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://jobportal.jeeclasses.org
+Data file = /opt/bitnami/wordpress/wp-content/themes/superio/inc/vendors/one-click-demo-import/default/dummy-data.xml
+Widget file = /opt/bitnami/wordpress/wp-content/themes/superio/inc/vendors/one-click-demo-import/default/widgets.wie
+Customizer file = not defined!
+Redux files:
+superio_theme_options -> /opt/bitnami/wordpress/wp-content/themes/superio/inc/vendors/one-click-demo-import/default/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Sidebar Default : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Jobs filter sidebar : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+Job Alert Form - Job Alert - Imported
+
+Jobs filter 2 sidebar : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+Job Alert Form - Job Alert - Imported
+
+Jobs filter top sidebar : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+
+Jobs filter top 2 sidebar : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+
+Jobs filter top maps sidebar : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+
+Job single sidebar : 
+
+Job Detail:: Information - Job Overview - Imported
+Job Detail::  Maps - Job Location - Imported
+Job Detail:: Tags - Job Skills - Imported
+Job Detail:: Employer Information - No Title - Imported
+
+Job single 2 sidebar : 
+
+Job Detail:: Apply/Shortlist Buttons - No Title - Imported
+Job Detail:: Information - No Title - Imported
+Job Detail:: Tags - Job Skills - Imported
+Job Detail:: Employer Information - No Title - Imported
+Job Detail:: Contact Form - Contact %1s - Imported
+
+Job single 3 sidebar : 
+
+Job Detail:: Apply/Shortlist Buttons - No Title - Imported
+Job Detail:: Employer Information - No Title - Imported
+Job Detail:: Contact Form - Contact %1s - Imported
+
+Employers filter sidebar : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+
+Employers filter top sidebar : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+
+Employers filter top maps sidebar : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+
+Employer single sidebar : 
+
+Employer Detail:: Information - No Title - Imported
+Employer Detail:: Maps - Employer Location - Imported
+Employer Detail:: Contact Form - Contact %1s - Imported
+
+Employer single sidebar 2 : 
+
+Employer Detail:: Information - No Title - Imported
+Employer Detail:: Maps - Employer Location - Imported
+Employer Detail:: Contact Form - Contact %1s - Imported
+
+Candidates filter sidebar : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+Candidate Alert Form - Candidate Alert - Imported
+
+Candidates filter top sidebar : 
+
+Apus Show Elementor Template Widget - No Title - Imported
+
+Candidate single sidebar : 
+
+Candidate Detail:: Information - No Title - Imported
+Candidate Detail:: Candidate Socials - No Title - Imported
+Candidate Detail:: Candidate Tags - Professional Skills - Imported
+Candidate Detail:: Candidate CV - CV - Imported
+Candidate Detail:: Contact Form - Contact %1s - Imported
+
+User Profile sidebar : 
+
+Apus User Short Profile - No Title - Imported
+
+Blog sidebar : 
+
+Apus Search Widget - Search by Keywords - Imported
+Categories - Categories - Imported
+Apus Recent Posts Widget - Recent Posts - Imported
+Tag Cloud - Tags - Imported
+
+Header Mobile Bottom : 
+
+Custom HTML - No Title - Imported
+Apus Socials - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: superio_theme_options finished successfully!
+
+---ocdi/after_import---
+

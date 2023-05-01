@@ -1,0 +1,1152 @@
+body,
+p,
+span,
+a,
+label,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+input[placeholder],
+[placeholder],
+*[placeholder],
+input[type="text"],
+[type="text"],
+*[type="text"],
+[data-placeholder],
+li,
+ul,
+textarea,
+table,
+thead,
+tr,
+th {
+  direction: rtl;
+  unicode-bidi: embed;
+}
+.pull-left {
+  float: right!important;
+}
+.pull-right {
+  float: left!important;
+}
+.navbar-nav li.menu-item-post-btn {
+  margin: 0 18px 0 0;
+}
+.nav-item-member-profile.login-link {
+  margin-right: 30px;
+  margin-left: 0;
+  padding-right: 30px;
+  padding-left: 0;
+}
+.nav-item-member-profile.login-link:before {
+  right: 0;
+}
+.nav-item-member-profile.login-link > a {
+  padding-left: 0;
+  padding-right: 0;
+}
+.navbar-brand {
+  float: right;
+}
+.navbar-toggle {
+  float: left;
+}
+@media (min-width: 992px) {
+  .navbar-nav {
+    float: left;
+  }
+  .navbar-header {
+    float: right;
+    position: absolute;
+    right: 0;
+    z-index: 1;
+  }
+}
+.sf-arrows .sub-menu .sf-with-ul:after {
+  -ms-transform: rotate(-180deg);
+      transform: rotate(-180deg);
+  -webkit-transform: rotate(-180deg);
+}
+@media (min-width: 992px) {
+  .navbar-nav.sf-menu > li > ul.sub-menu:before {
+    right: 35px;
+    left: unset;
+  }
+}
+.rtl .job-list-filter .form-control-flat span {
+  float: left;
+}
+.tab-control-right .nav-tabs > li {
+  float: left;
+}
+.loop-item-wrap.grid2 .loop-item-content,
+.list.loop-item-wrap .loop-item-content,
+.loop-item-wrap .loop-item-content {
+  padding-right: 20px;
+}
+.loop-item-wrap.grid2 .item-featured,
+.list.loop-item-wrap .item-featured,
+.loop-item-wrap .item-featured,
+.loop-item-wrap.grid2 .loop-item-content,
+.list.loop-item-wrap .loop-item-content,
+.loop-item-wrap .loop-item-content {
+  float: right !important;
+}
+.loop-item-wrap.grid2 .show-view-more,
+.list.loop-item-wrap .show-view-more,
+.loop-item-wrap .show-view-more {
+  float: left!important;
+  right: inherit;
+  left: 15px;
+}
+.noo-job-list-row .loop-item-wrap .show-view-more .job-date-ago,
+.noo-job-list-row .loop-item-wrap.grid2 .show-view-more .job-date-ago,
+.noo-job-list-row .list.loop-item-wrap .show-view-more .job-date-ago {
+  left: 0;
+  right: auto;
+  position: absolute;
+}
+.content-meta > span {
+  padding-right: 0;
+}
+.content-meta > span i {
+  padding-left: 5px;
+  padding-right: 0;
+}
+.noo_job .btn-quick-view:before {
+  left: 0;
+  border-left: solid 38px #8C8B8B;
+  border-right: none;
+}
+.noo_job .btn-quick-view:after {
+  left: 3px;
+  right: auto;
+}
+.noo_job.featured-job:before {
+  border-left: none !important;
+  border-right: solid 50px #e8be2f;
+  right: 0;
+  left: auto;
+}
+.noo_job.featured-job:after {
+  right: 8px;
+  left: auto;
+}
+.woocommerce-page .page-heading-info {
+  float: right;
+}
+.woocommerce #payment ul.payment_methods li {
+  text-align: right;
+}
+.woocommerce #payment #place_order {
+  float: left;
+}
+.woocommerce th {
+  float: right;
+}
+.form-group .checkbox {
+  float: right;
+}
+@media (min-width: 768px) {
+  .col-sm-1,
+  .col-sm-2,
+  .col-sm-3,
+  .col-sm-4,
+  .col-sm-5,
+  .col-sm-6,
+  .col-sm-7,
+  .col-sm-8,
+  .col-sm-9,
+  .col-sm-10,
+  .col-sm-11,
+  .col-sm-12 {
+    float: right;
+  }
+}
+@media (min-width: 992px) {
+  .col-md-1,
+  .col-md-2,
+  .col-md-3,
+  .col-md-4,
+  .col-md-5,
+  .col-md-6,
+  .col-md-7,
+  .col-md-8,
+  .col-md-9,
+  .col-md-10,
+  .col-md-11,
+  .col-md-12 {
+    float: right;
+  }
+}
+.chosen-choices li.search-field {
+  float: right;
+  clear: both;
+}
+.col-xs-1,
+.col-xs-2,
+.col-xs-3,
+.col-xs-4,
+.col-xs-5,
+.col-xs-6,
+.col-xs-7,
+.col-xs-8,
+.col-xs-9,
+.col-xs-10,
+.col-xs-11,
+.col-xs-12 {
+  float: right;
+}
+table thead tr th {
+  text-align: right;
+}
+.pagination {
+  text-align: left;
+}
+.slider .pagination {
+  float: right;
+}
+.widget ul li a,
+.widget ol li a {
+  float: none;
+}
+.widget.noo-job-type-widget ul li a,
+.widget.noo-job-type-widget ol li a {
+  padding-right: 0px;
+  width: 100%;
+}
+.widget.noo-job-type-widget ul li a i,
+.widget.noo-job-type-widget ol li a i {
+  left: 0;
+  right: inherit;
+}
+.noo-job-search-widget form:before,
+.noo-resume-search-widget form:before,
+.widget_search form:before {
+  right: auto;
+  left: 0;
+}
+.single-noo_job .noo-page-job-heading-1 .page-heading-info,
+.single-noo_job .noo-page-job-heading-2 .page-heading-info,
+.single-noo_job .noo-page-job-heading-1 .page-sub-heading-info,
+.single-noo_job .noo-page-job-heading-2 .page-sub-heading-info {
+  float: right;
+  clear: both;
+}
+.single-noo_job .noo-page-job-heading-1 .job-desc ul li:before,
+.single-noo_job .noo-page-job-heading-2 .job-desc ul li:before,
+.single-noo_job .noo-page-job-heading-1 .single-noo_job .more-jobs ul li:before,
+.single-noo_job .noo-page-job-heading-2 .single-noo_job .more-jobs ul li:before {
+  margin-right: -20px;
+  margin-left: 0px;
+}
+.single-noo_job .noo-page-job-heading-3 .logo-company,
+.single-noo_job .noo-page-job-heading-4 .logo-company {
+  float: right;
+  margin-right: 0;
+  margin-left: 30px;
+}
+@media (max-width: 480px) {
+  .single-noo_job .noo-page-job-heading-3 .logo-company,
+  .single-noo_job .noo-page-job-heading-4 .logo-company {
+    float: none;
+    margin-left: 0;
+  }
+}
+.single-noo_job .noo-page-job-heading-3 .count.applications,
+.single-noo_job .noo-page-job-heading-4 .count.applications {
+  margin-left: 0;
+  margin-right: 20px;
+}
+@media (max-width: 480px) {
+  .single-noo_job .noo-page-job-heading-3 .page-heading-info,
+  .single-noo_job .noo-page-job-heading-4 .page-heading-info,
+  .single-noo_job .noo-page-job-heading-3 .page-sub-heading-info,
+  .single-noo_job .noo-page-job-heading-4 .page-sub-heading-info {
+    text-align: center;
+  }
+}
+.job-detail-3 .job-custom-fields ul,
+.job-detail-4 .job-custom-fields ul {
+  padding-right: 0;
+}
+.wysihtml5-toolbar {
+  float: right;
+}
+.resume .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-time {
+  float: right;
+}
+.resume .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-time:before {
+  right: -22px;
+  left: auto;
+}
+.resume .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-series:before {
+  right: -25px;
+  left: auto;
+  border-width: 0 0px 27px 25px;
+}
+.resume .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-series:after {
+  top: 41px;
+  right: -28px;
+  left: auto;
+  border-width: 0 2px 24px 26px;
+}
+.resume .resume-content .resume-desc .resume-general ul li span {
+  float: right;
+}
+.resume .skill .pregress-bar .progress_title {
+  float: right;
+}
+.resume .skill .pregress-bar .progress {
+  float: right;
+}
+.resume-style-3 .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-time {
+  padding: 0px 105px 30px 0px;
+  margin-left: 0;
+}
+.resume-style-3 .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-time:before {
+  right: 11px;
+  left: auto;
+}
+@media (max-width: 767px) {
+  .resume-style-3 .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-time {
+    text-align: right;
+    padding: 0px 80px 30px 0px;
+  }
+}
+.resume-style-3 .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-series {
+  margin-left: 0;
+  margin-right: 105px;
+}
+.resume-style-3 .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-series:before {
+  right: -25px;
+  left: auto;
+  border-width: 0 0px 27px 25px;
+}
+.resume-style-3 .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-series:after {
+  top: 41px;
+  right: -28px;
+  left: auto;
+  border-width: 0 2px 24px 26px;
+}
+@media (max-width: 767px) {
+  .resume-style-3 .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-series {
+    margin-right: 80px;
+  }
+}
+.resume-style-3 .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper:after {
+  left: auto;
+  right: 32px;
+}
+.resume-style-3 .resume-content .resume-desc .resume-general ul li span {
+  float: right;
+}
+.resume-style-3 .skill .pregress-bar .progress_title {
+  float: right;
+}
+@media (max-width: 767px) {
+  .resume-style-3 .skill .pregress-bar .progress_title {
+    float: none;
+  }
+}
+.resume-style-3 .skill .pregress-bar .progress {
+  float: right;
+}
+@media (max-width: 767px) {
+  .resume-style-3 .skill .pregress-bar .progress {
+    float: none;
+  }
+}
+.resume-style-3 .icon-general {
+  float: right;
+  margin-right: 35px;
+}
+@media (max-width: 991px) {
+  .resume-style-3 .icon-general {
+    margin-right: 18px;
+  }
+}
+.resume-style-3 .resume-content .resume-desc #awards,
+.resume-style-3 .resume-content .resume-desc #job-complete,
+.resume-style-3 .resume-content .resume-desc .portfolio,
+.resume-style-3 .resume-content .resume-desc .skill {
+  margin-left: 0;
+  padding-right: 100px;
+}
+.resume-style-3 .resume-content .resume-desc #awards:before,
+.resume-style-3 .resume-content .resume-desc #job-complete:before,
+.resume-style-3 .resume-content .resume-desc .portfolio:before,
+.resume-style-3 .resume-content .resume-desc .skill:before {
+  left: auto;
+  right: 32px;
+}
+@media (max-width: 767px) {
+  .resume-style-3 .resume-content .resume-desc #awards,
+  .resume-style-3 .resume-content .resume-desc #job-complete,
+  .resume-style-3 .resume-content .resume-desc .portfolio,
+  .resume-style-3 .resume-content .resume-desc .skill {
+    padding-right: 80px;
+  }
+}
+.resume-style-3 .resume-content .resume-desc .portfolio {
+  padding-right: 85px;
+}
+@media (max-width: 767px) {
+  .resume-style-3 .resume-content .resume-desc .portfolio {
+    padding-right: 65px;
+  }
+}
+.resume-style-3 .resume-content .resume-desc .resume-about .resume-field,
+.resume-style-3 .resume-content .resume-desc .resume-general .resume-field,
+.resume-style-3 .resume-content .resume-desc .resume-about ul,
+.resume-style-3 .resume-content .resume-desc .resume-general ul {
+  padding-left: 0;
+  padding-right: 105px;
+}
+@media (max-width: 767px) {
+  .resume-style-3 .resume-content .resume-desc .resume-about .resume-field,
+  .resume-style-3 .resume-content .resume-desc .resume-general .resume-field,
+  .resume-style-3 .resume-content .resume-desc .resume-about ul,
+  .resume-style-3 .resume-content .resume-desc .resume-general ul {
+    padding-right: 80px;
+  }
+}
+.resume-style-3 .resume-content .resume-desc .resume-about ul:before,
+.resume-style-3 .resume-content .resume-desc .resume-general ul:before {
+  left: auto;
+  right: 32px;
+}
+.resume-style-3 .resume-content .resume-desc .resume-about .resume-field:before {
+  left: auto;
+  right: 48px;
+}
+.resume-style-3 .resume-content .resume-desc .resume-description .desc-info p {
+  padding-left: 0;
+  padding-right: 105px;
+}
+.resume-style-3 .resume-content .resume-desc .resume-description .desc-info p:before {
+  left: auto;
+  right: 32px;
+}
+@media (max-width: 767px) {
+  .resume-style-3 .resume-content .resume-desc .resume-description .desc-info p {
+    padding-right: 80px;
+  }
+}
+.resume-style-4 .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-time:before {
+  right: -10px;
+  left: auto;
+}
+@media (max-width: 991px) {
+  .resume-style-4 .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-time {
+    text-align: right;
+    padding-right: 45px;
+  }
+}
+@media (max-width: 767px) {
+  .resume-style-4 .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-time {
+    padding-right: 0;
+  }
+}
+.resume-style-4 .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-series:before {
+  right: -25px;
+  left: auto;
+  border-width: 0 0px 27px 25px;
+}
+.resume-style-4 .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-series:after {
+  top: 41px;
+  right: -28px;
+  left: auto;
+  border-width: 0 2px 24px 26px;
+}
+@media (max-width: 991px) {
+  .resume-style-4 .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-series {
+    margin-left: 0;
+    margin-right: 45px;
+  }
+}
+@media (max-width: 767px) {
+  .resume-style-4 .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper .timeline-series {
+    margin-right: 0;
+  }
+}
+.resume-style-4 .resume-content .resume-desc .resume-timeline .timeline-container .timeline-wrapper:after {
+  left: auto;
+  right: 9px;
+}
+.resume-style-4 .resume-content .resume-desc .resume-general ul {
+  padding-right: 0;
+}
+.resume-style-4 .resume-content .resume-desc .resume-general ul li span {
+  float: right;
+}
+@media (max-width: 992px) {
+  .resume-style-4 .resume-content .resume-desc .icon-general:before {
+    left: -22px;
+  }
+}
+@media (max-width: 767px) {
+  .resume-style-4 .resume-content .resume-desc .icon-general:before {
+    left: -35px;
+  }
+}
+.resume-style-4 .portfolio .col-md-4 {
+  padding: 0px 0px 15px 15px !important;
+}
+.resume-style-4 .skill .pregress-bar .progress_title {
+  float: right;
+}
+.resume-style-4 .skill .pregress-bar .progress {
+  float: right;
+}
+.resume-style-4 .resume-content .resume-desc .about-candidate,
+.resume-style-4 .resume-content .resume-desc .awards,
+.resume-style-4 .resume-content .resume-desc .desc-info,
+.resume-style-4 .resume-content .resume-desc .general-content,
+.resume-style-4 .resume-content .resume-desc .noo-counter-job,
+.resume-style-4 .resume-content .resume-desc .portfolio,
+.resume-style-4 .resume-content .resume-desc .skill,
+.resume-style-4 .resume-content .resume-desc .timeline-container {
+  padding-left: 0;
+  padding-right: 45px;
+}
+.resume-style-4 .resume-content .resume-desc .icon-general {
+  float: right;
+}
+.noo-resume-info-heading.resume-heading-3 {
+  text-align: center;
+}
+.noo-resume-info-heading.resume-heading-3 .resume-avatar {
+  float: none;
+}
+.content-footer .author-bio .author-avatar {
+  float: right;
+}
+.content-footer .author-bio .author-info {
+  margin-left: auto;
+  margin-right: 100px;
+}
+.content-footer .author-bio .author-info .author-social > div {
+  float: right;
+}
+.content-share .noo-social a i {
+  float: right;
+}
+.widget_noo_social_profile .social-icons {
+  float: right;
+}
+.widget_noo_social_profile .social-icons a {
+  float: right;
+  padding-left: 15px;
+  padding-right: 0;
+  margin-left: 15px;
+  margin-right: 0;
+}
+.form-control-flat {
+  text-align: right;
+}
+.form-control-flat .form-control-file-button {
+  right: auto;
+  left: 4px;
+  top: 41px;
+}
+.form-control-flat > .radio,
+.form-control-flat > .checkbox {
+  padding: 0 30px 0 0;
+}
+.form-control-flat > .radio i,
+.form-control-flat > .checkbox i {
+  right: 0;
+  left: auto;
+}
+.form-control-flat > .radio input,
+.form-control-flat > .checkbox input {
+  left: auto;
+  right: -9999px;
+}
+.jsteps li,
+.noo-step-icon li {
+  float: right;
+}
+.jsteps li:first-child .jstep-num:before,
+.noo-step-icon li:first-child .jstep-num:before,
+.jsteps li:first-child .noo-step-icon-item:before,
+.noo-step-icon li:first-child .noo-step-icon-item:before {
+  right: auto;
+  left: 0;
+}
+.jsteps li:last-child .jstep-num:before,
+.noo-step-icon li:last-child .jstep-num:before,
+.jsteps li:last-child .noo-step-icon-item:before,
+.noo-step-icon li:last-child .noo-step-icon-item:before {
+  right: 0;
+  left: auto;
+}
+.jsteps li .noo-step-icon-item:before,
+.noo-step-icon li .noo-step-icon-item:before {
+  left: auto;
+  right: 0;
+}
+.jsteps li .noo-step-icon-item:after,
+.noo-step-icon li .noo-step-icon-item:after {
+  right: auto;
+  left: 0;
+}
+.member-manage .member-manage-table {
+  overflow: hidden;
+}
+/* Fix bug with Google authentication iFrame */
+#ssIFrame_google {
+  left: initial !important;
+  right: -9999px !important;
+}
+.noo-rtl .fa-long-arrow-right:before {
+  content: "\f177";
+}
+.noo-rtl .fa-long-arrow-left:before {
+  content: "\f178";
+}
+/**
+ * Fix slider
+ */
+.job-search-bg-slider ul.sliders {
+  right: 0px !important;
+  left: auto !important;
+}
+/**
+ * Style child item
+ */
+.widget ul li {
+  float: right;
+  width: 100%;
+}
+.widget ul li a {
+  float: right;
+  text-align: right;
+  width: 90%;
+}
+.widget ul li ul.children {
+  padding: 0 25px 0 0;
+}
+.button_socical,
+.nav-item-member-profile .login-socical .button_socical {
+  text-align: right;
+}
+.button_socical i {
+  border-radius: 0 5px 5px 0;
+}
+.rtl .resume .resume-content .resume-desc .resume-general ul li span:first-child,
+.rtl .resume-style-3 .resume-content .resume-desc .resume-general ul li span:first-child,
+.rtl .resume-style-4 .resume-content .resume-desc .resume-general ul li span:first-child {
+  float: right;
+}
+.resume-style-2 .timeline-event > a:after {
+  right: 2px;
+  left: auto;
+}
+.timeline-event > a:after {
+  left: 2.14285714em;
+  right: auto;
+}
+.company-header .company-featured {
+  float: right;
+  padding-right: 0;
+}
+.company-header .company-featured img {
+  float: none;
+}
+.navbar-collapse.collapse {
+  position: absolute;
+  float: left;
+  left: 0;
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .navbar-nav.sf-menu > li.align-left > ul.sub-menu {
+    right: 0;
+  }
+}
+.noo-company.noo-company-style2 .noo-company-profile .noo-company-sumary .noo-company-avatar {
+  float: right;
+}
+.noo-company.noo-company-style2 .noo-company-profile .noo-company-sumary .noo-company-name {
+  float: right;
+  margin-right: 30px;
+}
+.featured_slider .box_testimonial .box-content {
+  text-align: right;
+}
+.featured_slider.style-1 .box_testimonial {
+  padding-left: 8%;
+  padding-right: inherit;
+}
+.featured_slider.style-1 .box_testimonial .box-info .box-info-image {
+  float: right;
+}
+.featured_slider.style-1 .box_testimonial .icon {
+  display: inline-block;
+}
+.featured_slider .box_testimonial .box-info .box-info-image {
+  float: right;
+  margin-left: 20px;
+}
+.featured_slider .box_testimonial .box-info .box-info-entry {
+  float: right;
+}
+/* fix style rtl */
+ul.noo-resume-list li .item-featured {
+  float: right;
+}
+ul.noo-resume-list li .item-content {
+  float: right;
+}
+ul.noo-resume-list li .show-view-more {
+  float: left;
+  right: inherit;
+  left: 15px;
+}
+ul.noo-resume-list li .show-view-more .time-post {
+  right: auto;
+}
+.pagination-top .jobs-shortcode .pagination {
+  left: 0;
+  right: auto;
+}
+.slider .loop-item-wrap .item-info {
+  text-align: right;
+}
+.slider .loop-item-wrap .item-info span {
+  padding: 0 0 0 15px;
+}
+.slider .loop-item-wrap .posts-loop-title {
+  float: right;
+}
+.slider .loop-item-wrap .owl-buttons {
+  right: auto;
+  left: 0;
+}
+.slider .loop-item-wrap .item-view-more {
+  text-align: left;
+}
+.slider .loop-item-wrap .item-excerpt {
+  text-align: right;
+}
+.noo-list-job-category .noo-list-job-category-content.style-1 ul li a:after {
+  left: 15px;
+  right: auto;
+  content: "\f104";
+}
+.noo-counter-icon .noo-counter-item .noo-counter-icon-content {
+  margin-right: 20px;
+  margin-left: 0;
+}
+.wpb-js-composer .vc_tta.vc_tta-controls-align-right .vc_tta-panel-heading,
+.wpb-js-composer .vc_tta.vc_tta-controls-align-right .vc_tta-tabs-container {
+  text-align: left !important;
+}
+.noo-job-search-wrapper .job-advanced-search.horizontal.style-2 .job-advanced-search-form .form-group input#search-keyword {
+  border-left: 1px solid #ddd !important;
+  border-right: none !important;
+}
+.noo-faq .noo_faq_group .noo_faq_item h4:after {
+  left: 0;
+  right: auto;
+}
+.slider .posts-loop-title {
+  float: right;
+}
+.featured_slider.style-3 .owl-controls .owl-buttons {
+  left: 30px;
+  right: auto;
+}
+.vc_tta-style-outline .vc_tta-tabs-container ul li {
+  margin-left: 30px !important;
+}
+.noo-job-grid2 .noo-job-item .job-date-ago {
+  float: left;
+  left: 20px;
+  right: auto;
+}
+.noo-job-grid2 .noo-job-item .company-logo {
+  float: right;
+}
+.noo-job-grid2 .noo-job-item .company-info {
+  float: left;
+}
+.noo-job-grid2 .noo-job-item .btn-quick-view-popup {
+  left: 0;
+  right: auto;
+}
+.noo-job-search-wrapper .job-advanced-search.horizontal.style-2.column-3 .form-action button {
+  width: 100%;
+}
+.noo-job-search-wrapper .job-advanced-search .job-search-info.left {
+  text-align: right;
+}
+.noo-resume.style-2 .noo-resume-item .noo-resume-info .item-featured {
+  float: right;
+}
+.noo-resume.style-2 .noo-resume-item .noo-resume-info .item-content {
+  float: right;
+  margin-right: 15px;
+  margin-left: 0;
+}
+.noo-resume.style-2 .noo-resume-item .noo-resume-info .noo-shortlist {
+  left: 18px;
+  right: auto;
+}
+.noo-job-archive-before .noo-btn-job-alert-form i {
+  margin-left: 10px;
+  margin-right: 0;
+}
+.company-list .company-item.featured-company:before {
+  border-right: solid 50px #e8be2f;
+  border-left: none;
+  right: 0;
+}
+.company-list .company-item:after {
+  right: 8px;
+  left: auto;
+}
+.company-list .company-item-meta .job-count {
+  margin-right: 10px;
+  margin-left: 0;
+}
+.company-custom-fields ul {
+  padding: 0;
+}
+.company-custom-fields ul li {
+  padding-right: 20px;
+  padding-left: 0;
+}
+.company-custom-fields ul li i {
+  margin-left: 0;
+  margin-right: -22px;
+}
+.job-desc ul li:before,
+.more-jobs ul li:before,
+.company-custom-fields ul li:before {
+  margin-right: -20px;
+  margin-left: 0;
+}
+.noo-rating {
+  float: right;
+}
+ul.noo-resume-list li .item-content {
+  margin-right: 25px;
+  width: 74%;
+}
+ul.noo-resume-list li.featured-resume:before {
+  right: 0;
+  left: auto;
+  border-right: solid 50px #f5d006;
+  border-left: none;
+}
+ul.noo-resume-list li.featured-resume:after {
+  right: 8px;
+  left: auto;
+}
+ul.noo-resume-grid li .noo-resume-info .item-featured {
+  float: right;
+}
+ul.noo-resume-grid li .noo-resume-info .noo-shortlist {
+  left: 18px;
+  right: auto;
+}
+ul.noo-resume-grid li .noo-resume-info .item-content {
+  margin-right: 15px;
+  margin-left: 0;
+}
+ul.noo-resume-grid li.featured-resume:before {
+  right: 16px;
+  border-right: solid 50px #f5d006;
+  border-left: none;
+}
+ul.noo-resume-grid li.featured-resume:after {
+  right: 25px;
+}
+.noo-resume-info-heading .resume-avatar {
+  float: right;
+}
+.noo-resume-info-heading .resume-info .noo-shortlist {
+  margin-right: 10px;
+  margin-left: 0;
+}
+.noo-resume-info-heading.resume-heading-2 .resume-avatar {
+  float: right;
+}
+.noo-resume-info-heading.resume-heading-4 .resume-avatar {
+  float: right;
+  margin-left: 20px;
+  margin-right: 0;
+}
+@media (max-width: 480px) {
+  .noo-resume-info-heading.resume-heading-4 .resume-avatar {
+    float: none;
+    margin-left: 0;
+  }
+}
+.resume-style-2 .timeline-wrapper {
+  padding: 0 35px 20px 0px;
+}
+.resume-style-2 .timeline-wrapper:after {
+  right: 10px;
+  left: auto;
+}
+.resume .title-general {
+  padding-right: 0;
+}
+.timeline-event-content {
+  margin-right: 0;
+}
+.hentry.has-left-col {
+  padding-right: 130px;
+  padding-left: 0;
+}
+.hentry .content-left {
+  right: 0;
+}
+@media (max-width: 767px) {
+  .hentry.has-left-col {
+    padding-right: 0;
+  }
+}
+.post-navigation .next-post {
+  float: left;
+}
+.post-navigation .prev-post {
+  float: right;
+}
+@media (min-width: 768px) {
+  .has-left-col ~ .post-navigation,
+  .has-left-col ~ .comments-area {
+    padding-left: 0;
+    padding-right: 130px;
+  }
+}
+.owl-carousel {
+  direction: ltr;
+}
+.slider .owl-buttons {
+  left: 0;
+  right: auto;
+}
+.noo-topbar .noo-topbar-text .text-primary {
+  padding-right: 5px;
+}
+.noo-topbar .noo-topbar-user {
+  margin-left: 0;
+  margin-right: 15px;
+  float: left;
+}
+.noo-topbar .noo-topbar-user .sub-menu {
+  left: 0;
+  right: inherit;
+}
+.noo-topbar .noo-topbar-social {
+  float: right;
+}
+.featured_slider.style-4 .box_testimonial_single .box-info .box-info-image,
+.featured_slider.style-5 .box_testimonial_single .box-info .box-info-image {
+  float: right;
+}
+.featured_slider.style-4 .box_testimonial_single .box-info .box-info-entry,
+.featured_slider.style-5 .box_testimonial_single .box-info .box-info-entry {
+  float: left;
+  text-align: right;
+  padding-left: 0;
+  padding-right: 10px;
+}
+.featured_slider.style-4 .box_testimonial_single .box-content p,
+.featured_slider.style-5 .box_testimonial_single .box-content p {
+  text-align: right;
+}
+.sf-arrows .sub-menu .sf-with-ul:after {
+  left: 15px ;
+  right: auto;
+}
+.navbar-nav.sf-menu > li li.fly-right > ul.sub-menu {
+  right: 100%;
+  left: auto;
+}
+@media (min-width: 992px) {
+  .navbar-nav.sf-menu > li.align-right > ul.sub-menu {
+    right: auto;
+    left: 0;
+  }
+  .navbar-nav.sf-menu > li.nav-item-member-profile > ul.sub-menu:before {
+    right: inherit !important;
+    left: 35px !important;
+  }
+}
+.noo-tool-share .noo-social-share {
+  right: 100% !important;
+  left: 0 !important;
+  padding-left: 15px;
+}
+.noo_job .btn-quick-view:before {
+  left: 0;
+  right: auto;
+}
+.noo-job-map .job-advanced-search .job-search-info p,
+.noo-job-search-wrapper .job-advanced-search .job-search-info p,
+.noo-job-map .job-advanced-search .job-search-info p,
+.noo-job-search-wrapper .job-advanced-search .job-search-info p {
+  text-align: right;
+}
+.job-details.style2 .job-custom-fields ul li.job-cf i {
+  right: -20px;
+  left: 0;
+}
+.resume .resume-content .resume-desc .resume-general ul {
+  padding-right: 0;
+}
+.candidate-info .email i {
+  margin-right: 8px;
+}
+.candidate-info .candidate-field-icon {
+  float: right;
+  margin-right: 0;
+  margin-left: 10px;
+}
+.resume-field .candidate-field-icon {
+  float: right;
+}
+.noo-page-heading .noo-company-heading .noo-company-info {
+  float: right;
+}
+.noo-page-heading .noo-company-heading .noo-company-info .noo-company-avatar {
+  float: right;
+}
+.noo-page-heading .noo-company-heading .noo-company-action {
+  float: left;
+}
+@media (min-width: 768px) {
+  .col-sm-offset-3 {
+    margin-left: 0;
+    margin-right: 25%;
+  }
+}
+.multiselect-container.dropdown-menu .multiselect-filter .multiselect-clear-filter {
+  right: inherit;
+  left: 10px;
+}
+.contact-home span.submit {
+  float: left;
+  left: 20%;
+  right: inherit;
+}
+.multiselect-native-select .caret {
+  right: inherit;
+}
+.multiselect-native-select .multiselect-selected-text {
+  float: right;
+}
+.slider.style-1 .loop-item-wrap .item-title-bar .item-featured {
+  margin-right: 0;
+  margin-left: 15px;
+}
+.text-left {
+  text-align: right;
+}
+#company-desc .company-header .company-featured {
+  padding-right: inherit;
+  padding-left: 20px;
+}
+.job-social a.noo-icon {
+  margin-right: 0;
+  margin-left: 5px;
+}
+.noo-company-info-simple .company-avatar {
+  float: right;
+}
+.noo-company-info-simple .company-info {
+  margin-left: 0;
+  margin-right: 115px;
+}
+.noo-counter-job .noo-counter-item .noo-counter-icon-content {
+  margin-left: inherit;
+  margin-right: 20px;
+}
+.noo-resume-review .noo-sub-title .label-review {
+  float: right;
+  margin-right: inherit;
+  margin-left: 12px;
+}
+.noo-form-resume-comment .noo-comment-item .container-rating .label-rating {
+  padding-right: inherit;
+  padding-left: 10px;
+}
+.noo-page-heading .page-sub-heading-info .company-logo {
+  padding-right: 0px;
+  padding-left: 5px;
+}
+.job-message-job-status .jm-status-job-expired {
+  margin-right: 0;
+  margin-left: 15px;
+}
+.cf-image_gallery-value .noo-lightbox-item {
+  padding: 0 0 0 15px;
+}
+.noo-page-heading .member-heading-avatar {
+  float: right;
+  margin-right: 0;
+  margin-left: 20px;
+}
+.noo-page-heading .page-heading-info {
+  text-align: right;
+}
+.noo-page-heading .page-sub-heading-info {
+  text-align: right;
+}
+.member-manage .table thead th {
+  padding-right: 22px !important;
+}
+div.dataTables_wrapper div.dataTables_filter {
+  float: left;
+}
+div.dataTables_wrapper div.dataTables_filter input {
+  margin-left: 0;
+  margin-right: 0.5em;
+}
+.upload-btn-wrap {
+  float: right;
+  text-align: right;
+}
+.upload-preview-wrap {
+  float: right;
+}
+.wpcf7 .fa:before {
+  right: 20px;
+}
+.wpcf7 .fa .wpcf7-form-control {
+  padding-left: inherit;
+  padding-right: 50px;
+}
+.radio input[type="radio"],
+.radio-inline input[type="radio"],
+.checkbox input[type="checkbox"],
+.checkbox-inline input[type="checkbox"] {
+  margin-right: -18px;
+}
+.multiselect-container.dropdown-menu li a {
+  text-align: right;
+}
+.multiselect-container.dropdown-menu li a label.radio {
+  text-align: right;
+}
+.form-inline .multiselect-container li a label.checkbox input[type=checkbox],
+.form-inline .multiselect-container li a label.radio input[type=radio] {
+  margin-right: -18px;
+}
+div.wpcf7-response-output {
+  text-align: right;
+}
+.add-new-location-submit {
+  left: 12px;
+  right: auto;
+}

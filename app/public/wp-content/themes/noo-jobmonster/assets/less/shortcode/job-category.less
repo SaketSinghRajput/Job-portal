@@ -1,0 +1,127 @@
+.noo-job-category-wrap {
+  .title{
+    font-size: 1em;
+    margin: 0; 
+    line-height: inherit;
+    font-weight: inherit;
+  }
+  &.style-grid {
+    margin-bottom: 25px;
+    .noo-job-category {
+      padding: 30px 0 0;
+      .category-item {
+        margin-bottom: 30px;
+        font-family: @headings-font-family;
+        a {
+          text-align: center;
+          background: #fff;
+          border: 1px solid #ddd;
+          .transition (all 0.3s ease-in-out);
+          padding: 20px;
+          display: inline-block;
+          width: 100%;
+          .icon {
+            display: block;
+            font-size: 48px;
+            line-height: 30px;
+            color: @brand-primary;
+            padding: 0 0 12px;
+          } 
+          .title {
+            display: block;
+            color: #44494b;
+            line-height: 30px;
+            font-weight: @font-weight-semi-bold;
+          }
+          .job-count {
+            display: block;
+            color: #44494b;
+            font-size: 13px;
+            line-height: 30px;
+            font-family: @font-family-base;
+          }
+          &:hover {
+           .box-shadow (0 0 21px -1px #ddd);
+          }
+        }
+      }
+    }
+    .view-more {
+      text-align: center;
+    }
+  }
+
+  &.style-slider {
+    .noo-job-category {
+      .category-item {
+        font-family: @headings-font-family;
+        a {
+          text-align: center;
+          padding: 20px;
+          .icon {
+            display: block;
+            font-size: 48px;
+            line-height: 30px;
+
+            padding: 0 0 18px;
+          }
+          .title {
+            display: block;
+
+            font-size: 16px;
+            line-height: 30px;
+            font-weight: @font-weight-semi-bold;
+          }
+          .job-count {
+            display: block;
+            font-size: 14px;
+            line-height: 30px;
+            font-family: @font-family-base;
+          }
+        }
+        &:hover {
+          .icon {
+            color: @brand-primary;
+          }
+        }
+      }
+    }
+    .owl-theme .owl-controls .owl-buttons div {
+      background: transparent !important;
+      font-size: 50px;
+      line-height: 30px;
+      .opacity(.5);
+      &:hover {
+        .opacity(1);
+      }
+    }
+    .owl-prev {
+      position: absolute;
+      left: 0;
+      top: 30%;
+      .translate(-50%, 0);
+    }
+    .owl-next {
+      position: absolute;
+      right: 0;
+      top: 30%;
+      .translate(-50%, 0);
+    }
+  }
+
+  &.style-list {
+    a {
+      color: #44494b;
+      font-size: 16px;
+      line-height: 36px;
+      font-weight: 500;
+      font-family: @font-family-alt;
+      .job-count {
+        color: @brand-primary;
+      }
+    }
+    .view-more {
+      margin-top: 10px;
+    }
+  }
+}

@@ -1,0 +1,2121 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Jobmonster Elementor Addon\n"
+"POT-Creation-Date: 2020-03-12 11:21+0700\n"
+"PO-Revision-Date: 2020-03-12 11:20+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: jobmonster-addon.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-elementor-extra-widgets.php:140
+msgid "Jobmonster Addon"
+msgstr ""
+
+#: includes/class-elementor-extra-widgets.php:247
+#: includes/class-elementor-extra-widgets.php:259
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/class-job-indeed.php:215 includes/class-job-indeed.php:217
+#: includes/elementor-extra/job-careerjet.php:207
+#: includes/elementor-template/job/list.php:80
+#: includes/elementor-template/job/slider.php:92
+msgid "View more"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:22
+#: includes/elementor-extra/advanced_search.php:145
+msgid "Noo Advanced Search"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:54
+#: includes/elementor-extra/advanced_search.php:76
+#: includes/elementor-extra/advanced_search.php:120
+#: includes/elementor-extra/advanced_search.php:128
+#: includes/elementor-extra/advanced_search.php:285
+#: includes/elementor-extra/job-indeed.php:35
+#: includes/elementor-extra/job.php:246 includes/elementor-extra/job.php:257
+#: includes/elementor-extra/testimonial.php:166
+#: includes/elementor-extra/testimonial.php:177
+msgid "None"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:63
+#: includes/elementor-extra/advanced_search.php:86
+msgid "Custom Field: "
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:121
+msgid "Style Dark"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:122
+msgid "Style Apple"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:123
+msgid "Style Nature"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:124
+msgid "Style Light"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:129
+msgid "Style Road"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:130
+msgid "Style Aerial"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:131
+msgid "Style GrayScale"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:132
+msgid "Style Birdseye"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:133
+msgid "Style CanvasLight"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:134
+msgid "Style CanvasDark"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:152
+msgid "Main Title"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:154
+msgid "Find Jobs"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:155
+msgid "type your title here"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:161
+msgid "Sub Title"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:164
+msgid "Join us & Explore thousands of Jobs"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:165
+#: includes/elementor-extra/call-to-action.php:125
+#: includes/elementor-extra/faq.php:129
+msgid "Type your description here"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:171
+msgid " HTML Content"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:181
+#: includes/elementor-extra/text-info.php:55
+msgid "Align"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:185
+#: includes/elementor-extra/call-to-action.php:72
+#: includes/elementor-extra/text-info.php:59
+msgid "Left"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:189
+#: includes/elementor-extra/call-to-action.php:76
+#: includes/elementor-extra/text-info.php:63
+msgid "Center"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:193
+#: includes/elementor-extra/call-to-action.php:80
+#: includes/elementor-extra/text-info.php:67
+msgid "Right"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:204
+msgid "Color Title"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:219
+msgid "Typography Title"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:227
+msgid "Color Sub Title"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:242
+msgid "Typography Sub Title"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:250
+msgid "Search Form Layout"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:253
+msgid "Horizontal"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:254
+msgid "Vertical"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:262
+msgid "Horizontal Style"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:265
+#: includes/elementor-extra/noo-recent-news.php:134
+msgid "Border"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:266
+msgid "No Border"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:267
+#: includes/elementor-extra/call-to-action.php:211
+msgid "Background"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:278
+msgid "Background Type"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:281
+#: includes/elementor-extra/advanced_search.php:345
+msgid "Revolution Slider"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:282
+msgid "Image Slider"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:283
+msgid "One Image"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:284
+msgid "Map"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:293
+msgid "Select Post Type Map"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:296
+msgid "Resume Map"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:297
+msgid "Job Map"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:308
+msgid "Map Max Height (px)"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:333
+msgid "Style Map"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:358
+msgid "Content bottom Position"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:381
+msgid "Slider Images"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:392
+msgid "Slider Time(ms)"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:414
+msgid "Slider Speed(ms)"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:436
+msgid "Slider Max Height(px)"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:458
+#: includes/elementor-extra/step-icon.php:152
+msgid "Background Image"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:474
+msgid "Image Max Height (px)"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:500
+msgid "Content Max Height (px)"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:525
+msgid "Search_type"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:528
+#: includes/elementor-extra/job-resume-alert.php:54
+msgid "Job"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:529
+#: includes/elementor-extra/job-resume-alert.php:55
+msgid "Resume"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:537
+msgid "Enable keyword search"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:539
+#: includes/elementor-extra/companies-listing.php:87
+#: includes/elementor-extra/company-feature.php:120
+#: includes/elementor-extra/company.php:198
+#: includes/elementor-extra/faq.php:113
+#: includes/elementor-extra/job-category-listing.php:99
+#: includes/elementor-extra/job-category-listing.php:110
+#: includes/elementor-extra/job-category.php:152
+#: includes/elementor-extra/job-category.php:163
+#: includes/elementor-extra/job-location.php:123
+#: includes/elementor-extra/job-location.php:134
+#: includes/elementor-extra/job.php:82 includes/elementor-extra/job.php:183
+#: includes/elementor-extra/job.php:245 includes/elementor-extra/job.php:256
+#: includes/elementor-extra/job.php:285
+#: includes/elementor-extra/testimonial.php:165
+#: includes/elementor-extra/testimonial.php:176
+msgid "Show"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:540
+#: includes/elementor-extra/company-feature.php:121
+#: includes/elementor-extra/company.php:199
+#: includes/elementor-extra/job-category-listing.php:98
+#: includes/elementor-extra/job-category-listing.php:111
+#: includes/elementor-extra/job-category.php:151
+#: includes/elementor-extra/job-category.php:164
+#: includes/elementor-extra/job-location.php:122
+#: includes/elementor-extra/job-location.php:135
+#: includes/elementor-extra/job.php:184 includes/elementor-extra/job.php:286
+#: includes/elementor-extra/noo-blog.php:187
+#: includes/elementor-extra/noo-blog.php:222
+#: includes/elementor-extra/noo-blog.php:277
+#: includes/elementor-extra/noo-blog.php:372
+#: includes/elementor-extra/noo-recent-news.php:294
+#: includes/elementor-extra/noo-recent-news.php:349
+#: includes/elementor-extra/noo-recent-news.php:429
+#: includes/elementor-extra/resume.php:187
+#: includes/elementor-extra/service.php:124
+msgid "Hide"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:548
+#: includes/elementor-extra/client.php:97
+#: includes/elementor-extra/company-feature.php:70
+#: includes/elementor-extra/company.php:132
+#: includes/elementor-extra/job-category-listing.php:132
+#: includes/elementor-extra/job-category.php:185
+#: includes/elementor-extra/job-location.php:156
+#: includes/elementor-extra/job.php:125
+#: includes/elementor-extra/noo-recent-news.php:156
+#: includes/elementor-extra/package.php:134
+#: includes/elementor-extra/resume.php:112
+#: includes/elementor-extra/service.php:163
+#: includes/elementor-extra/step-icon.php:211
+#: includes/elementor-extra/testimonial.php:123
+msgid "Columns"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:566
+#: includes/elementor-extra/advanced_search.php:590
+msgid "Search Position 2"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:578
+#: includes/elementor-extra/advanced_search.php:602
+msgid "Search Position 3"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:614
+#: includes/elementor-extra/counter.php:139
+#: includes/elementor-extra/job.php:294
+msgid "Visibility"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:617
+#: includes/elementor-extra/counter.php:142
+#: includes/elementor-extra/job.php:297
+msgid "All Devices"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:618
+#: includes/elementor-extra/job.php:298
+msgid "Hidden phone"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:619
+#: includes/elementor-extra/counter.php:144
+#: includes/elementor-extra/job.php:299
+msgid "Hidden Tablet"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:620
+#: includes/elementor-extra/counter.php:145
+#: includes/elementor-extra/job.php:300
+msgid "Hidden PC"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:621
+#: includes/elementor-extra/counter.php:146
+#: includes/elementor-extra/job.php:301
+msgid "Visible Phone"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:622
+#: includes/elementor-extra/counter.php:147
+#: includes/elementor-extra/job.php:302
+msgid "Visible Tablet"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:623
+#: includes/elementor-extra/counter.php:148
+#: includes/elementor-extra/job.php:303
+msgid "Visible PC"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:731
+#: includes/elementor-extra/advanced_search.php:733
+#: includes/elementor-extra/advanced_search.php:846
+#: includes/elementor-extra/advanced_search.php:935
+msgid "Keyword"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:750
+#: includes/elementor-extra/job-careerjet.php:162
+msgid "Search"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:772
+msgid "Loading Maps"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:801
+msgid "Search for a location..."
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:848
+#: includes/elementor-extra/advanced_search.php:938
+msgid "Enter job title"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:865
+#: includes/elementor-extra/advanced_search.php:955
+msgid "Search Now"
+msgstr ""
+
+#: includes/elementor-extra/advanced_search.php:865
+#: includes/elementor-extra/advanced_search.php:955
+msgid "Finds Job"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:27
+msgid "Noo Call To Action"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:62
+#: includes/elementor-extra/client.php:90
+#: includes/elementor-extra/contact-form.php:72
+#: includes/elementor-extra/counter.php:70 includes/elementor-extra/faq.php:85
+#: includes/elementor-extra/noo-blog.php:109
+#: includes/elementor-extra/noo-recent-news.php:111
+#: includes/elementor-extra/service.php:63
+#: includes/elementor-extra/step-icon.php:76
+msgid "General Options"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:68
+msgid "Alignment"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:93
+#: includes/elementor-extra/step-icon.php:180
+msgid "Select icon"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:101
+msgid "Title and Description"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:109
+#: includes/elementor-extra/contact-form.php:79
+#: includes/elementor-extra/service.php:108
+msgid "Title & Description"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:113
+msgid "Default title"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:114
+#: includes/elementor-extra/call-to-action.php:142
+#: includes/elementor-extra/text-info.php:86
+msgid "Type your title here"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:120
+#: includes/elementor-extra/call-to-action.php:280
+#: includes/elementor-extra/text-info.php:92
+#: includes/elementor-extra/text-info.php:166
+msgid "Description"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:124
+#: includes/elementor-extra/faq.php:128
+msgid "Default description"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:131
+#: includes/elementor-extra/call-to-action.php:308
+#: includes/elementor-extra/noo-blog.php:393
+#: includes/elementor-extra/noo-recent-news.php:450
+#: includes/elementor-extra/service.php:118
+msgid "Button"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:139
+#: includes/elementor-extra/job-resume-alert.php:74
+msgid "Button Text"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:141
+msgid "Post a Job"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:148
+#: includes/elementor-extra/job-category-listing.php:149
+#: includes/elementor-extra/noo-blog.php:197
+#: includes/elementor-extra/noo-blog.php:253
+#: includes/elementor-extra/noo-recent-news.php:325
+#: includes/elementor-extra/step-icon.php:132
+#: includes/elementor-extra/step-icon.php:197
+msgid "Link"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:150
+#: includes/elementor-extra/client.php:197
+#: includes/elementor-extra/job-category-listing.php:151
+#: includes/elementor-extra/service.php:143
+#: includes/elementor-extra/step-icon.php:135
+#: includes/elementor-extra/step-icon.php:200
+msgid "https://your-link.com"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:169
+#: includes/elementor-extra/text-info.php:106
+msgid "General"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:176
+#: includes/elementor-extra/text-info.php:113
+msgid "Padding"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:187
+msgid "Border Radius"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:220
+#: includes/elementor-extra/service.php:254
+#: includes/elementor-extra/service.php:273
+msgid "Icon Color"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:229
+#: includes/elementor-extra/service.php:227
+msgid "Icon Size"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:250
+#: includes/elementor-extra/company.php:110
+#: includes/elementor-extra/faq.php:119
+#: includes/elementor-extra/noo-blog.php:130
+#: includes/elementor-extra/noo-blog.php:214
+#: includes/elementor-extra/noo-recent-news.php:176
+#: includes/elementor-extra/noo-recent-news.php:286
+#: includes/elementor-extra/text-info.php:83
+#: includes/elementor-extra/text-info.php:126
+msgid "Title"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:258
+#: includes/elementor-extra/call-to-action.php:288
+#: includes/elementor-extra/call-to-action.php:334
+#: includes/elementor-extra/call-to-action.php:364
+msgid "Color"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:269
+#: includes/elementor-extra/text-info.php:134
+#: includes/elementor-extra/text-info.php:174
+msgid "Typography for Title"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:298
+msgid "Typography for Description"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:317
+#: includes/elementor-extra/job-category.php:105
+#: includes/elementor-extra/service.php:248
+msgid "Normal"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:324
+#: includes/elementor-extra/call-to-action.php:354
+msgid "Background Color"
+msgstr ""
+
+#: includes/elementor-extra/call-to-action.php:347
+#: includes/elementor-extra/job-category.php:126
+#: includes/elementor-extra/service.php:267
+msgid "Hover"
+msgstr ""
+
+#: includes/elementor-extra/client.php:31
+msgid "Noo Client"
+msgstr ""
+
+#: includes/elementor-extra/client.php:114
+#: includes/elementor-extra/job-category.php:216
+#: includes/elementor-extra/job-location.php:187
+#: includes/elementor-extra/noo-recent-news.php:209
+msgid "Loop"
+msgstr ""
+
+#: includes/elementor-extra/client.php:116
+#: includes/elementor-extra/client.php:127
+#: includes/elementor-extra/client.php:158
+#: includes/elementor-extra/client.php:168
+#: includes/elementor-extra/contact-form.php:108
+#: includes/elementor-extra/job-category.php:204
+#: includes/elementor-extra/job-category.php:218
+#: includes/elementor-extra/job-category.php:232
+#: includes/elementor-extra/job-category.php:246
+#: includes/elementor-extra/job-location.php:175
+#: includes/elementor-extra/job-location.php:189
+#: includes/elementor-extra/job-location.php:203
+#: includes/elementor-extra/job-location.php:217
+#: includes/elementor-extra/noo-recent-news.php:211
+#: includes/elementor-extra/noo-recent-news.php:225
+#: includes/elementor-extra/noo-recent-news.php:253
+#: includes/elementor-extra/noo-recent-news.php:267
+msgid "Off"
+msgstr ""
+
+#: includes/elementor-extra/client.php:117
+#: includes/elementor-extra/client.php:128
+#: includes/elementor-extra/client.php:159
+#: includes/elementor-extra/client.php:169
+#: includes/elementor-extra/contact-form.php:107
+#: includes/elementor-extra/job-category.php:205
+#: includes/elementor-extra/job-category.php:219
+#: includes/elementor-extra/job-category.php:233
+#: includes/elementor-extra/job-category.php:247
+#: includes/elementor-extra/job-location.php:176
+#: includes/elementor-extra/job-location.php:190
+#: includes/elementor-extra/job-location.php:204
+#: includes/elementor-extra/job-location.php:218
+#: includes/elementor-extra/noo-recent-news.php:212
+#: includes/elementor-extra/noo-recent-news.php:226
+#: includes/elementor-extra/noo-recent-news.php:254
+#: includes/elementor-extra/noo-recent-news.php:268
+msgid "On"
+msgstr ""
+
+#: includes/elementor-extra/client.php:125
+#: includes/elementor-extra/company-feature.php:85
+#: includes/elementor-extra/company.php:163
+#: includes/elementor-extra/job-category.php:202
+#: includes/elementor-extra/job-location.php:173
+#: includes/elementor-extra/noo-recent-news.php:223
+#: includes/elementor-extra/package.php:148
+#: includes/elementor-extra/resume.php:147
+#: includes/elementor-extra/testimonial.php:141
+msgid "Auto Play"
+msgstr ""
+
+#: includes/elementor-extra/client.php:136
+#: includes/elementor-extra/package.php:204
+#: includes/elementor-extra/testimonial.php:185
+msgid "Slider speed(ms)"
+msgstr ""
+
+#: includes/elementor-extra/client.php:156
+#: includes/elementor-extra/job-category.php:230
+#: includes/elementor-extra/job-location.php:201
+#: includes/elementor-extra/job.php:254
+#: includes/elementor-extra/noo-recent-news.php:251
+#: includes/elementor-extra/package.php:190
+#: includes/elementor-extra/testimonial.php:174
+msgid "Show Navigation"
+msgstr ""
+
+#: includes/elementor-extra/client.php:166
+msgid "Show Dot"
+msgstr ""
+
+#: includes/elementor-extra/client.php:176
+#: includes/elementor-extra/client.php:214 includes/elementor-extra/faq.php:91
+msgid "Client Item"
+msgstr ""
+
+#: includes/elementor-extra/client.php:194
+msgid "Url"
+msgstr ""
+
+#: includes/elementor-extra/client.php:205
+msgid "Choose Image"
+msgstr ""
+
+#: includes/elementor-extra/companies-listing.php:17
+msgid "Companies Listing"
+msgstr ""
+
+#: includes/elementor-extra/companies-listing.php:52
+msgid "Noo Companies Listing"
+msgstr ""
+
+#: includes/elementor-extra/companies-listing.php:59
+msgid "Display Style"
+msgstr ""
+
+#: includes/elementor-extra/companies-listing.php:62
+msgid "Alphabet"
+msgstr ""
+
+#: includes/elementor-extra/companies-listing.php:63
+#: includes/elementor-extra/company.php:73 includes/elementor-extra/job.php:97
+#: includes/elementor-extra/noo-recent-news.php:120
+#: includes/elementor-extra/resume.php:88
+msgid "Grid"
+msgstr ""
+
+#: includes/elementor-extra/companies-listing.php:71
+msgid "Number Company"
+msgstr ""
+
+#: includes/elementor-extra/companies-listing.php:85
+msgid "Show Filter"
+msgstr ""
+
+#: includes/elementor-extra/companies-listing.php:88
+#: includes/elementor-extra/faq.php:114
+msgid "Hidden"
+msgstr ""
+
+#: includes/elementor-extra/company-feature.php:18
+#: includes/elementor-extra/company-feature.php:51
+msgid "Noo Company Feature"
+msgstr ""
+
+#: includes/elementor-extra/company-feature.php:58
+#: includes/elementor-extra/company.php:96 includes/elementor-extra/job.php:142
+msgid "Posts Per Page"
+msgstr ""
+
+#: includes/elementor-extra/company-feature.php:87
+#: includes/elementor-extra/company.php:61
+#: includes/elementor-extra/company.php:84
+#: includes/elementor-extra/company.php:165
+#: includes/elementor-extra/job-careerjet.php:90
+#: includes/elementor-extra/noo-recent-news.php:239
+#: includes/elementor-extra/package.php:123
+#: includes/elementor-extra/package.php:150
+#: includes/elementor-extra/package.php:164
+#: includes/elementor-extra/package.php:178
+#: includes/elementor-extra/package.php:192
+#: includes/elementor-extra/resume.php:98
+#: includes/elementor-extra/resume.php:149
+#: includes/elementor-extra/testimonial.php:143
+#: includes/elementor-extra/testimonial.php:154
+msgid "Yes"
+msgstr ""
+
+#: includes/elementor-extra/company-feature.php:88
+#: includes/elementor-extra/company.php:62
+#: includes/elementor-extra/company.php:85
+#: includes/elementor-extra/company.php:166
+#: includes/elementor-extra/job-careerjet.php:91
+#: includes/elementor-extra/noo-recent-news.php:240
+#: includes/elementor-extra/package.php:124
+#: includes/elementor-extra/package.php:151
+#: includes/elementor-extra/package.php:165
+#: includes/elementor-extra/package.php:179
+#: includes/elementor-extra/package.php:193
+#: includes/elementor-extra/resume.php:99
+#: includes/elementor-extra/resume.php:150
+#: includes/elementor-extra/testimonial.php:144
+#: includes/elementor-extra/testimonial.php:155
+msgid "No"
+msgstr ""
+
+#: includes/elementor-extra/company-feature.php:96
+#: includes/elementor-extra/company.php:174
+msgid "Slide Speed"
+msgstr ""
+
+#: includes/elementor-extra/company-feature.php:118
+#: includes/elementor-extra/company.php:196
+#: includes/elementor-extra/job-category.php:244
+#: includes/elementor-extra/job-location.php:215
+#: includes/elementor-extra/job.php:243
+#: includes/elementor-extra/noo-recent-news.php:265
+#: includes/elementor-extra/package.php:176
+#: includes/elementor-extra/resume.php:184
+#: includes/elementor-extra/testimonial.php:163
+msgid "Show Pagination"
+msgstr ""
+
+#: includes/elementor-extra/company-feature.php:171
+#: includes/elementor-template/noo-company/alphabet.php:164
+#: includes/elementor-template/noo-company/grid.php:95
+msgid "Nothing Found"
+msgstr ""
+
+#: includes/elementor-extra/company.php:17
+#: includes/elementor-extra/company.php:52
+msgid "Noo Company"
+msgstr ""
+
+#: includes/elementor-extra/company.php:59
+msgid "Featured Company Only"
+msgstr ""
+
+#: includes/elementor-extra/company.php:70 includes/elementor-extra/job.php:94
+#: includes/elementor-extra/noo-recent-news.php:117
+#: includes/elementor-extra/resume.php:84
+msgid "Layout"
+msgstr ""
+
+#: includes/elementor-extra/company.php:74 includes/elementor-extra/job.php:99
+#: includes/elementor-extra/noo-recent-news.php:122
+msgid "Slider"
+msgstr ""
+
+#: includes/elementor-extra/company.php:82
+#: includes/elementor-extra/resume.php:96
+msgid "Slide Mode"
+msgstr ""
+
+#: includes/elementor-extra/company.php:107
+msgid "OrderBy"
+msgstr ""
+
+#: includes/elementor-extra/company.php:111
+msgid "Job Count"
+msgstr ""
+
+#: includes/elementor-extra/company.php:119
+msgid "Order"
+msgstr ""
+
+#: includes/elementor-extra/company.php:122
+#: includes/elementor-extra/noo-blog.php:145
+#: includes/elementor-extra/noo-recent-news.php:191
+msgid "ASC"
+msgstr ""
+
+#: includes/elementor-extra/company.php:123
+#: includes/elementor-extra/noo-blog.php:146
+#: includes/elementor-extra/noo-recent-news.php:192
+msgid "DESC"
+msgstr ""
+
+#: includes/elementor-extra/company.php:147
+#: includes/elementor-extra/resume.php:130
+msgid "Rows"
+msgstr ""
+
+#: includes/elementor-extra/company.php:150
+#: includes/elementor-extra/resume.php:133
+msgid "2 Rows"
+msgstr ""
+
+#: includes/elementor-extra/company.php:151
+#: includes/elementor-extra/resume.php:134
+msgid "3 Rows"
+msgstr ""
+
+#: includes/elementor-extra/company.php:152
+#: includes/elementor-extra/resume.php:135
+msgid "4 Rows"
+msgstr ""
+
+#: includes/elementor-extra/company.php:207
+#: includes/elementor-extra/job-category-listing.php:172
+#: includes/elementor-extra/job.php:311
+#: includes/elementor-extra/package.php:227
+#: includes/elementor-extra/service.php:180
+#: includes/elementor-extra/testimonial.php:219
+msgid "Item Spacing"
+msgstr ""
+
+#: includes/elementor-extra/company.php:228
+#: includes/elementor-extra/job-category-listing.php:74
+#: includes/elementor-extra/job-category.php:82
+#: includes/elementor-extra/job-location.php:82
+#: includes/elementor-extra/job-resume-alert.php:86
+#: includes/elementor-extra/job.php:109 includes/elementor-extra/job.php:335
+#: includes/elementor-extra/resume.php:279
+#: includes/elementor-extra/step-icon.php:84
+#: includes/elementor-extra/testimonial.php:95
+msgid "Style"
+msgstr ""
+
+#: includes/elementor-extra/company.php:235
+#: includes/elementor-extra/job-resume-alert.php:93
+#: includes/elementor-extra/job.php:342 includes/elementor-extra/resume.php:286
+msgid "Primary Color"
+msgstr ""
+
+#: includes/elementor-extra/contact-form.php:24
+msgid "Noo Contact Form 7"
+msgstr ""
+
+#: includes/elementor-extra/contact-form.php:81
+msgid "Enter text heading"
+msgstr ""
+
+#: includes/elementor-extra/contact-form.php:82
+msgid "Don't miss"
+msgstr ""
+
+#: includes/elementor-extra/contact-form.php:89
+msgid "Enter description"
+msgstr ""
+
+#: includes/elementor-extra/contact-form.php:90
+msgid "the latest tech news from us!"
+msgstr ""
+
+#: includes/elementor-extra/contact-form.php:96
+msgid "Select Form"
+msgstr ""
+
+#: includes/elementor-extra/contact-form.php:105
+msgid "Style for MailChimp"
+msgstr ""
+
+#: includes/elementor-extra/contact-form.php:133
+msgid "Make sure you have enabled Contact Form 7 plugin."
+msgstr ""
+
+#: includes/elementor-extra/counter.php:26
+msgid "Noo Counter"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:76
+msgid "Data"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:79
+msgid "Public Job"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:80
+#: includes/elementor-extra/counter.php:197
+msgid "Public Resumes"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:81
+msgid "All Job"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:82
+msgid "All Resume"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:83
+#: includes/elementor-extra/counter.php:212
+msgid "All Companies"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:84
+#: includes/elementor-extra/counter.php:217
+msgid "All Applications"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:85
+msgid "All User"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:86
+msgid "Candidate User"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:87
+msgid "Employer User"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:88
+msgid "Custom Number"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:96
+msgid "Number"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:98
+msgid "Enter Number here"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:107
+#: includes/elementor-extra/step-icon.php:95
+#: includes/elementor-extra/step-icon.php:121
+#: includes/elementor-extra/step-icon.php:186
+msgid "Text"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:117
+#: includes/elementor-extra/job-resume-alert.php:63
+msgid "Icon"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:128
+msgid "Text Color"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:143
+msgid "Hidden Phone"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:192
+msgid "Public Jobs"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:202
+msgid "All Jobs"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:207
+msgid "All Resumes"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:222
+msgid "All Users"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:227
+msgid "Candidate"
+msgstr ""
+
+#: includes/elementor-extra/counter.php:232
+msgid "Employer"
+msgstr ""
+
+#: includes/elementor-extra/faq.php:26
+msgid "Noo FAQ"
+msgstr ""
+
+#: includes/elementor-extra/faq.php:110
+msgid "Open FAQ"
+msgstr ""
+
+#: includes/elementor-extra/faq.php:121
+msgid "FAQ"
+msgstr ""
+
+#: includes/elementor-extra/faq.php:132
+msgid "FAQ Item"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:18
+#: includes/elementor-extra/job-careerjet.php:43
+msgid "Noo Job CareerJet"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:50
+msgid "Keywords"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:52
+msgid "Type keyword here"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:59
+#: includes/elementor-extra/job-indeed.php:87
+msgid "Location"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:61
+msgid "Enter location. ex:United State"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:68
+#: includes/elementor-extra/job-indeed.php:96
+#: includes/elementor-extra/job.php:163
+msgid "Job Type"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:70
+msgid "Enter Job Type. ex:marketing"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:77
+#: includes/elementor-extra/job-indeed.php:113
+msgid "Job Per Page"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:88
+msgid "Show Search Form"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:99
+msgid "Affiliate ID"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:149
+msgid "All Types"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:150
+msgid "Full Time"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:151
+msgid "Part Time"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:156
+msgid "Enter your keyword"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:160
+msgid "Enter your location"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:169
+#: includes/elementor-extra/job-category-listing.php:229
+#: includes/elementor-extra/job-category-listing.php:251
+#: includes/elementor-template/job-category/style-grid.php:49
+#: includes/elementor-template/job-category/style-slider.php:49
+#: includes/elementor-template/job-location/style-grid.php:48
+#: includes/elementor-template/job-location/style-slider.php:49
+#: includes/elementor-template/noo-company/grid.php:87
+#: includes/elementor-template/noo-company/style-grid.php:44
+#: includes/elementor-template/noo-company/style-slider.php:41
+#, php-format
+msgid "%s Job"
+msgid_plural "%s Jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/elementor-extra/job-careerjet.php:188
+msgid "Salary:"
+msgstr ""
+
+#: includes/elementor-extra/job-careerjet.php:217
+#: includes/elementor-extra/job-careerjet.php:229
+#: includes/elementor-extra/job-indeed.php:173
+msgid "No results found, please try again later."
+msgstr ""
+
+#: includes/elementor-extra/job-category-listing.php:18
+msgid "Job Category Listing"
+msgstr ""
+
+#: includes/elementor-extra/job-category-listing.php:67
+#: includes/elementor-extra/job-category.php:75
+msgid "Job Category Options"
+msgstr ""
+
+#: includes/elementor-extra/job-category-listing.php:77
+#: includes/elementor-extra/job-location.php:98
+#: includes/elementor-extra/job.php:112
+#: includes/elementor-extra/package.php:112
+#: includes/elementor-extra/testimonial.php:98
+msgid "Style 1"
+msgstr ""
+
+#: includes/elementor-extra/job-category-listing.php:78
+#: includes/elementor-extra/job-location.php:99
+#: includes/elementor-extra/job.php:113
+#: includes/elementor-extra/package.php:113
+#: includes/elementor-extra/testimonial.php:99
+msgid "Style 2"
+msgstr ""
+
+#: includes/elementor-extra/job-category-listing.php:79
+#: includes/elementor-extra/job-location.php:100
+#: includes/elementor-extra/testimonial.php:100
+msgid "Style 3"
+msgstr ""
+
+#: includes/elementor-extra/job-category-listing.php:87
+#: includes/elementor-extra/job-category.php:95
+msgid "Select Job Category"
+msgstr ""
+
+#: includes/elementor-extra/job-category-listing.php:96
+#: includes/elementor-extra/job-category.php:149
+#: includes/elementor-extra/job-location.php:120
+msgid "Hide Empty"
+msgstr ""
+
+#: includes/elementor-extra/job-category-listing.php:108
+#: includes/elementor-extra/job-category.php:161
+#: includes/elementor-extra/job-location.php:132
+msgid "Show Job Count"
+msgstr ""
+
+#: includes/elementor-extra/job-category-listing.php:119
+#: includes/elementor-extra/job-category.php:172
+msgid "Limit Category"
+msgstr ""
+
+#: includes/elementor-extra/job-category-listing.php:163
+msgid "url title"
+msgstr ""
+
+#: includes/elementor-extra/job-category-listing.php:165
+msgid "Type label button here"
+msgstr ""
+
+#: includes/elementor-extra/job-category-listing.php:166
+#: includes/elementor-template/noo-company/grid.php:72
+msgid "View More"
+msgstr ""
+
+#: includes/elementor-extra/job-category.php:18
+#: includes/elementor-extra/job.php:154 includes/elementor-extra/resume.php:210
+msgid "Job Category"
+msgstr ""
+
+#: includes/elementor-extra/job-category.php:85
+#: includes/elementor-extra/job-location.php:85
+msgid "Style Grid"
+msgstr ""
+
+#: includes/elementor-extra/job-category.php:86
+#: includes/elementor-extra/job-location.php:86
+msgid "Style List"
+msgstr ""
+
+#: includes/elementor-extra/job-category.php:87
+#: includes/elementor-extra/job-location.php:87
+msgid "Style Slider"
+msgstr ""
+
+#: includes/elementor-extra/job-category.php:112
+#: includes/elementor-extra/job-category.php:133
+msgid "Text and Icon Color"
+msgstr ""
+
+#: includes/elementor-extra/job-category.php:257
+#: includes/elementor-extra/job-location.php:228
+#: includes/elementor-extra/resume.php:255
+msgid "Item Spacing for Grid"
+msgstr ""
+
+#: includes/elementor-extra/job-indeed.php:17
+msgid "Noo Jobs Indeed"
+msgstr ""
+
+#: includes/elementor-extra/job-indeed.php:62
+msgid "Noo Job Indeed "
+msgstr ""
+
+#: includes/elementor-extra/job-indeed.php:69
+msgid "Indeed ID"
+msgstr ""
+
+#: includes/elementor-extra/job-indeed.php:71
+msgid ""
+"To show search results from Indeed you will need a publish account. Obtain "
+"this <a href=\"https://ads.indeed.com/jobroll/signup\">Here</a>"
+msgstr ""
+
+#: includes/elementor-extra/job-indeed.php:77
+msgid "Query"
+msgstr ""
+
+#: includes/elementor-extra/job-indeed.php:79
+msgid "Design"
+msgstr ""
+
+#: includes/elementor-extra/job-indeed.php:80
+msgid "Enter terms"
+msgstr ""
+
+#: includes/elementor-extra/job-indeed.php:81
+msgid ""
+"Enter terms to search for by default. By default terms are ANDed. Search for "
+"multiple terms at once by using the \"or\" keyword between each keyword."
+msgstr ""
+
+#: includes/elementor-extra/job-indeed.php:89
+msgid "new york"
+msgstr ""
+
+#: includes/elementor-extra/job-indeed.php:90
+msgid "Enter Job Location"
+msgstr ""
+
+#: includes/elementor-extra/job-indeed.php:104
+msgid "Country"
+msgstr ""
+
+#: includes/elementor-extra/job-indeed.php:106
+msgid "us"
+msgstr ""
+
+#: includes/elementor-extra/job-indeed.php:107
+msgid "Enter country"
+msgstr ""
+
+#: includes/elementor-extra/job-indeed.php:164
+msgid "Load More"
+msgstr ""
+
+#: includes/elementor-extra/job-location.php:18
+msgid " Job Location"
+msgstr ""
+
+#: includes/elementor-extra/job-location.php:75
+msgid "Job Location Options"
+msgstr ""
+
+#: includes/elementor-extra/job-location.php:95
+msgid "Select Style list"
+msgstr ""
+
+#: includes/elementor-extra/job-location.php:111
+msgid "Select Job Location"
+msgstr ""
+
+#: includes/elementor-extra/job-location.php:143
+msgid "Limit Location"
+msgstr ""
+
+#: includes/elementor-extra/job-resume-alert.php:19
+msgid "Noo Job/Resume Alert"
+msgstr ""
+
+#: includes/elementor-extra/job-resume-alert.php:44
+msgid "Noo Job Resume Alert"
+msgstr ""
+
+#: includes/elementor-extra/job-resume-alert.php:51
+msgid "Select Alert Type"
+msgstr ""
+
+#: includes/elementor-extra/job-resume-alert.php:76
+msgid "Create Alert"
+msgstr ""
+
+#: includes/elementor-extra/job-resume-alert.php:77
+msgid "Type your label here"
+msgstr ""
+
+#: includes/elementor-extra/job.php:17
+msgid "Noo Jobs"
+msgstr ""
+
+#: includes/elementor-extra/job.php:75
+msgid "Noo Job"
+msgstr ""
+
+#: includes/elementor-extra/job.php:85 includes/elementor-extra/job.php:234
+#: includes/elementor-extra/resume.php:245
+msgid "Recent"
+msgstr ""
+
+#: includes/elementor-extra/job.php:86 includes/elementor-extra/job.php:222
+#: includes/elementor-extra/resume.php:233
+msgid "Featured"
+msgstr ""
+
+#: includes/elementor-extra/job.php:98 includes/elementor-extra/resume.php:87
+msgid "List"
+msgstr ""
+
+#: includes/elementor-extra/job.php:100
+msgid "List Column"
+msgstr ""
+
+#: includes/elementor-extra/job.php:172 includes/elementor-extra/resume.php:219
+msgid "Job Location"
+msgstr ""
+
+#: includes/elementor-extra/job.php:181
+msgid "Show Auto Play"
+msgstr ""
+
+#: includes/elementor-extra/job.php:195 includes/elementor-extra/resume.php:162
+msgid "Slide Speed(ms)"
+msgstr ""
+
+#: includes/elementor-extra/job.php:217
+#: includes/elementor-extra/noo-blog.php:126
+#: includes/elementor-extra/noo-recent-news.php:172
+#: includes/elementor-extra/resume.php:228
+msgid "Order by"
+msgstr ""
+
+#: includes/elementor-extra/job.php:220
+#: includes/elementor-extra/noo-blog.php:129
+#: includes/elementor-extra/noo-blog.php:294
+#: includes/elementor-extra/noo-recent-news.php:175
+#: includes/elementor-extra/noo-recent-news.php:366
+#: includes/elementor-extra/resume.php:231
+msgid "Date"
+msgstr ""
+
+#: includes/elementor-extra/job.php:221 includes/elementor-extra/resume.php:232
+msgid "View"
+msgstr ""
+
+#: includes/elementor-extra/job.php:223
+#: includes/elementor-extra/noo-blog.php:133
+#: includes/elementor-extra/noo-recent-news.php:179
+#: includes/elementor-extra/resume.php:234
+msgid "Random"
+msgstr ""
+
+#: includes/elementor-extra/job.php:231 includes/elementor-extra/resume.php:242
+msgid "Sort By"
+msgstr ""
+
+#: includes/elementor-extra/job.php:235 includes/elementor-extra/resume.php:246
+msgid "Older"
+msgstr ""
+
+#: includes/elementor-extra/job.php:268
+msgid "Choice Type Paginate"
+msgstr ""
+
+#: includes/elementor-extra/job.php:271
+msgid "Style1"
+msgstr ""
+
+#: includes/elementor-extra/job.php:272
+msgid "Style2"
+msgstr ""
+
+#: includes/elementor-extra/job.php:283
+msgid "Show View More"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:25
+msgid "Noo Blog"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:115
+#: includes/elementor-extra/noo-recent-news.php:145
+#: includes/elementor-extra/testimonial.php:110
+msgid "Category"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:131
+#: includes/elementor-extra/noo-recent-news.php:177
+msgid "Modified date"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:132
+#: includes/elementor-extra/noo-recent-news.php:178
+msgid "Comment count"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:142
+#: includes/elementor-extra/noo-recent-news.php:188
+msgid "Sort by"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:153
+#: includes/elementor-extra/noo-recent-news.php:199
+msgid "Post Per Page"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:155
+#: includes/elementor-extra/noo-recent-news.php:201
+msgid "8"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:156
+#: includes/elementor-extra/noo-recent-news.php:202
+msgid "-1 = Get all post."
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:164
+msgid "Pagination"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:179
+msgid "Image"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:233
+#: includes/elementor-extra/noo-recent-news.php:305
+msgid "Tag"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:269
+#: includes/elementor-extra/noo-recent-news.php:341
+msgid "Meta"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:287
+#: includes/elementor-extra/noo-recent-news.php:359
+msgid "Display"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:293
+#: includes/elementor-extra/noo-recent-news.php:365
+msgid "Author"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:295
+#: includes/elementor-extra/noo-recent-news.php:367
+msgid "Categories"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:296
+#: includes/elementor-extra/noo-recent-news.php:368
+msgid "Tags"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:297
+#: includes/elementor-extra/noo-recent-news.php:369
+msgid "Comments"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:307
+#: includes/elementor-extra/noo-recent-news.php:379
+msgid "No. of Categories"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:308
+#: includes/elementor-extra/noo-recent-news.php:380
+msgid "How many categories to display?"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:309
+#: includes/elementor-extra/noo-recent-news.php:381
+msgid "1"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:321
+#: includes/elementor-extra/noo-recent-news.php:393
+msgid "No. of Tags"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:322
+#: includes/elementor-extra/noo-recent-news.php:394
+msgid "How many tags to display?"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:332
+msgid "Meta Color"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:348
+#: includes/elementor-extra/noo-recent-news.php:405
+msgid "Remove icons"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:364
+#: includes/elementor-extra/noo-recent-news.php:421
+msgid "Content"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:383
+#: includes/elementor-extra/noo-recent-news.php:440
+msgid "Excerpt Length (words)"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:384
+#: includes/elementor-extra/noo-recent-news.php:441
+msgid "Length of content (words)"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:404
+#: includes/elementor-extra/noo-recent-news.php:461
+#: includes/elementor-extra/service.php:132
+msgid "Button text"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:405
+#: includes/elementor-extra/noo-blog.php:406
+#: includes/elementor-extra/noo-recent-news.php:462
+msgid "Read more"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:511
+msgid "<<"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:512
+msgid ">>"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:695
+#: includes/elementor-extra/noo-recent-news.php:738
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:721
+#: includes/elementor-extra/noo-recent-news.php:764
+msgid "No comments"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:721
+#: includes/elementor-extra/noo-recent-news.php:764
+msgid "1 comment"
+msgstr ""
+
+#: includes/elementor-extra/noo-blog.php:721
+#: includes/elementor-extra/noo-recent-news.php:764
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: includes/elementor-extra/noo-recent-news.php:25
+msgid "Noo Recent News"
+msgstr ""
+
+#: includes/elementor-extra/noo-recent-news.php:121
+msgid "Standard"
+msgstr ""
+
+#: includes/elementor-extra/noo-recent-news.php:130
+msgid "Slider Style"
+msgstr ""
+
+#: includes/elementor-extra/noo-recent-news.php:133
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/elementor-extra/noo-recent-news.php:237
+#: includes/elementor-extra/package.php:162
+#: includes/elementor-extra/testimonial.php:152
+msgid "Auto Height"
+msgstr ""
+
+#: includes/elementor-extra/noo-recent-news.php:463
+msgid "Read more >"
+msgstr ""
+
+#: includes/elementor-extra/noo-recent-news.php:503
+#, php-format
+msgid "%s <i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i>"
+msgstr ""
+
+#: includes/elementor-extra/noo-recent-news.php:503
+msgid "Next"
+msgstr ""
+
+#: includes/elementor-extra/noo-recent-news.php:504
+#, php-format
+msgid "<i class=\"fa fa-angle-left\" aria-hidden=\"true\"></i> %s"
+msgstr ""
+
+#: includes/elementor-extra/noo-recent-news.php:504
+msgid "Previous"
+msgstr ""
+
+#: includes/elementor-extra/noo-recent-news.php:786
+msgid "under"
+msgstr ""
+
+#: includes/elementor-extra/noo-recent-news.php:788
+msgid "by"
+msgstr ""
+
+#: includes/elementor-extra/noo-recent-news.php:790
+msgid "on"
+msgstr ""
+
+#: includes/elementor-extra/noo-recent-news.php:843
+msgid "Options"
+msgstr ""
+
+#: includes/elementor-extra/noo-recent-news.php:852
+msgid "Columns Space"
+msgstr ""
+
+#: includes/elementor-extra/package.php:22
+msgid "Noo Package"
+msgstr ""
+
+#: includes/elementor-extra/package.php:84
+msgid "Packages Options"
+msgstr ""
+
+#: includes/elementor-extra/package.php:91
+msgid "Type Package"
+msgstr ""
+
+#: includes/elementor-extra/package.php:95
+msgid "Job Package"
+msgstr ""
+
+#: includes/elementor-extra/package.php:99
+msgid "Resume Package"
+msgstr ""
+
+#: includes/elementor-extra/package.php:109
+msgid "Packages Style"
+msgstr ""
+
+#: includes/elementor-extra/package.php:121
+msgid "Packages Style Slide"
+msgstr ""
+
+#: includes/elementor-extra/package.php:326
+msgid "Unlimited job posting"
+msgstr ""
+
+#: includes/elementor-extra/package.php:326
+#, php-format
+msgid "%s job posting"
+msgid_plural "%s jobs posting"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/elementor-extra/package.php:329
+msgid "Unlimited featured job"
+msgstr ""
+
+#: includes/elementor-extra/package.php:329
+#, php-format
+msgid "%s featured job"
+msgid_plural "%s featured jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/elementor-extra/package.php:332
+msgid "Unlimited refresh job"
+msgstr ""
+
+#: includes/elementor-extra/package.php:332
+#, php-format
+msgid "%s refresh job"
+msgid_plural "%s refresh jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/elementor-extra/package.php:335
+msgid "Unlimited download resume"
+msgstr ""
+
+#: includes/elementor-extra/package.php:335
+#, php-format
+msgid "%s download resume "
+msgid_plural "%s download resumes "
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/elementor-extra/package.php:337
+#, php-format
+msgid "Job displayed for %s day"
+msgid_plural "Job displayed for %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/elementor-extra/package.php:354
+#: includes/elementor-extra/package.php:487
+#: includes/elementor-extra/package.php:624
+#: includes/elementor-extra/package.php:728
+#, php-format
+msgid "%s Membership"
+msgstr ""
+
+#: includes/elementor-extra/package.php:363
+#: includes/elementor-extra/package.php:496
+msgid "No job posting"
+msgstr ""
+
+#: includes/elementor-extra/package.php:372
+#: includes/elementor-extra/package.php:505
+msgid "No featured job"
+msgstr ""
+
+#: includes/elementor-extra/package.php:381
+msgid "No refresh job"
+msgstr ""
+
+#: includes/elementor-extra/package.php:390
+msgid "No Download Resume Attach file"
+msgstr ""
+
+#: includes/elementor-extra/package.php:400
+#: includes/elementor-extra/package.php:515
+msgid "Featured Company"
+msgstr ""
+
+#: includes/elementor-extra/package.php:413
+#: includes/elementor-extra/package.php:656
+msgid "More info"
+msgstr ""
+
+#: includes/elementor-extra/package.php:432
+#: includes/elementor-extra/package.php:675
+msgid "You have exhausted the right to purchase this package"
+msgstr ""
+
+#: includes/elementor-extra/package.php:442
+msgid "You cannot buy the package with a candidate account"
+msgstr ""
+
+#: includes/elementor-extra/package.php:607
+msgid "Unlimited resume posting"
+msgstr ""
+
+#: includes/elementor-extra/package.php:607
+#, php-format
+msgid "%s resume posting"
+msgid_plural "%s resumes posting"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/elementor-extra/package.php:629
+#, php-format
+msgid "%s Resume Refresh"
+msgstr ""
+
+#: includes/elementor-extra/package.php:634
+#, php-format
+msgid "%s Resume Feature"
+msgstr ""
+
+#: includes/elementor-extra/package.php:643
+#: includes/elementor-extra/package.php:737
+msgid "No resume posting"
+msgstr ""
+
+#: includes/elementor-extra/package.php:685
+msgid "You cannot buy the package with an employer account"
+msgstr ""
+
+#: includes/elementor-extra/resume.php:17
+msgid "Noo Resumes"
+msgstr ""
+
+#: includes/elementor-extra/resume.php:77
+msgid "Noo Resume"
+msgstr ""
+
+#: includes/elementor-extra/resume.php:186
+msgid "show"
+msgstr ""
+
+#: includes/elementor-extra/resume.php:199
+msgid "Posts per page"
+msgstr ""
+
+#: includes/elementor-extra/service.php:29
+msgid "Noo Service"
+msgstr ""
+
+#: includes/elementor-extra/service.php:69
+msgid "Services"
+msgstr ""
+
+#: includes/elementor-extra/service.php:73
+#: includes/elementor-extra/service.php:89
+msgid "CROSS BROWSERS"
+msgstr ""
+
+#: includes/elementor-extra/service.php:74
+#: includes/elementor-extra/service.php:78
+#: includes/elementor-extra/service.php:82
+#: includes/elementor-extra/service.php:86
+#: includes/elementor-extra/service.php:90
+#: includes/elementor-extra/service.php:94
+msgid ""
+"malesuada, laoreet lacus non, lacinia felis. Phasellus pretium enim tellus, "
+"et aliquet mi fringilla non. Aenean lorem libero, adipiscing."
+msgstr ""
+
+#: includes/elementor-extra/service.php:77
+#: includes/elementor-extra/service.php:93
+msgid "EASY CUSTOMIZATION"
+msgstr ""
+
+#: includes/elementor-extra/service.php:81
+msgid "MODERN DESIGN"
+msgstr ""
+
+#: includes/elementor-extra/service.php:85
+msgid "QUICK SUPPORT"
+msgstr ""
+
+#: includes/elementor-extra/service.php:100
+msgid "Icons"
+msgstr ""
+
+#: includes/elementor-extra/service.php:109
+msgid "Service Title"
+msgstr ""
+
+#: includes/elementor-extra/service.php:114
+msgid "Plan Features"
+msgstr ""
+
+#: includes/elementor-extra/service.php:115
+msgid "Feature"
+msgstr ""
+
+#: includes/elementor-extra/service.php:133
+msgid "Enter text"
+msgstr ""
+
+#: includes/elementor-extra/service.php:134
+msgid "Add text"
+msgstr ""
+
+#: includes/elementor-extra/service.php:140
+msgid "Button Link"
+msgstr ""
+
+#: includes/elementor-extra/service.php:149
+msgid "Hover Active"
+msgstr ""
+
+#: includes/elementor-extra/service.php:209
+msgid "Icon style"
+msgstr ""
+
+#: includes/elementor-extra/service.php:219
+msgid "Text Content"
+msgstr ""
+
+#: includes/elementor-extra/step-icon.php:27
+msgid "Noo Step Icon"
+msgstr ""
+
+#: includes/elementor-extra/step-icon.php:87
+msgid "Simple"
+msgstr ""
+
+#: includes/elementor-extra/step-icon.php:88
+msgid "Advanced"
+msgstr ""
+
+#: includes/elementor-extra/step-icon.php:98
+#: includes/elementor-extra/step-icon.php:110
+#: includes/elementor-extra/step-icon.php:113
+#: includes/elementor-extra/step-icon.php:116
+#: includes/elementor-extra/step-icon.php:127
+msgid "Text 1"
+msgstr ""
+
+#: includes/elementor-extra/step-icon.php:99
+#: includes/elementor-extra/step-icon.php:128
+msgid "Enter your text"
+msgstr ""
+
+#: includes/elementor-extra/step-icon.php:106
+msgid "List Button"
+msgstr ""
+
+#: includes/elementor-extra/step-icon.php:138
+msgid "Button Advenced Color"
+msgstr ""
+
+#: includes/elementor-extra/step-icon.php:162
+msgid "Step Icon"
+msgstr ""
+
+#: includes/elementor-extra/step-icon.php:166
+#: includes/elementor-extra/step-icon.php:170
+#: includes/elementor-extra/step-icon.php:174
+msgid "1. Register an account to start"
+msgstr ""
+
+#: includes/elementor-extra/step-icon.php:192
+msgid "This is the heading"
+msgstr ""
+
+#: includes/elementor-extra/step-icon.php:193
+msgid "Enter your title"
+msgstr ""
+
+#: includes/elementor-extra/testimonial.php:23
+msgid "Noo Testimonial"
+msgstr ""
+
+#: includes/elementor-extra/testimonial.php:59
+#: includes/elementor-template/noo-company/alphabet.php:18
+#: includes/elementor-template/noo-company/grid.php:28
+msgid "All"
+msgstr ""
+
+#: includes/elementor-extra/testimonial.php:87
+msgid "Testimonial Option"
+msgstr ""
+
+#: includes/elementor-extra/testimonial.php:101
+msgid "Style 4"
+msgstr ""
+
+#: includes/elementor-extra/testimonial.php:102
+msgid "style 5"
+msgstr ""
+
+#: includes/elementor-extra/testimonial.php:211
+msgid "Testimonial Style"
+msgstr ""
+
+#: includes/elementor-extra/text-info.php:25
+#: includes/elementor-extra/text-info.php:47
+msgid "Noo Text Info"
+msgstr ""
+
+#: includes/elementor-extra/text-info.php:85
+msgid "Noo Title"
+msgstr ""
+
+#: includes/elementor-extra/text-info.php:94
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: includes/elementor-extra/text-info.php:95
+msgid "type your description here"
+msgstr ""
+
+#: includes/elementor-extra/text-info.php:142
+msgid "Title Color"
+msgstr ""
+
+#: includes/elementor-extra/text-info.php:152
+msgid "Space"
+msgstr ""
+
+#: includes/elementor-extra/text-info.php:183
+msgid "Description Color"
+msgstr ""
+
+#: includes/elementor-template/job/grid.php:37
+#: includes/elementor-template/job/list.php:86
+#: includes/elementor-template/resume/grid.php:175
+#: includes/elementor-template/resume/list.php:184
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: includes/elementor-template/job/grid.php:70
+#: includes/elementor-template/job/list.php:93
+#: includes/elementor-template/job/list2.php:38
+msgid "Quick view"
+msgstr ""
+
+#: includes/elementor-template/job/list.php:39
+#, php-format
+msgid "Permanent link to: \"%s\""
+msgstr ""
+
+#: includes/elementor-template/job/list.php:48
+msgid "Send to friend"
+msgstr ""
+
+#: includes/elementor-template/job/list.php:62
+msgid "Saved"
+msgstr ""
+
+#: includes/elementor-template/job/list.php:62
+msgid "Save"
+msgstr ""
+
+#: includes/elementor-template/job/list.php:70
+msgid "Share"
+msgstr ""
+
+#: includes/elementor-template/noo-company/alphabet.php:6
+#: includes/elementor-template/noo-company/grid.php:5
+msgid "A"
+msgstr ""
+
+#: includes/elementor-template/noo-company/alphabet.php:6
+#: includes/elementor-template/noo-company/grid.php:5
+msgid "Z"
+msgstr ""
+
+#: includes/elementor-template/noo-company/alphabet.php:80
+msgid "Show more"
+msgstr ""
+
+#: includes/elementor-template/noo-company/alphabet.php:80
+msgid "+ Show more"
+msgstr ""
+
+#: includes/elementor-template/noo-company/grid.php:82
+#, php-format
+msgid "(%s %s)"
+msgstr ""
+
+#: includes/elementor-template/noo-company/grid.php:82
+msgid "reviews"
+msgstr ""
+
+#: includes/elementor-template/noo-company/grid.php:82
+msgid "review"
+msgstr ""
+
+#: includes/elementor-template/noo-company/grid.php:87
+msgid "No Jobs"
+msgstr ""
+
+#: includes/elementor-template/resume/grid.php:20
+#: includes/elementor-template/resume/list.php:22
+msgid "Resume Title"
+msgstr ""
+
+#: jobmonster-addon.php:61
+#, php-format
+msgid ""
+"<strong>%s</strong> requires <strong><a href=\"https://wordpress.org/plugins/"
+"elementor/\" target=\"_blank\">Elementor</a></strong> plugin to be installed "
+"and activated on your site."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Jobmonster Elementor Addon"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Elementor Widget Extra for Jobmonster Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "NooTheme Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.nootheme.com"
+msgstr ""

@@ -1,0 +1,146 @@
+.noo-company-sc {
+  &.style-grid {
+    margin-top: 42px;
+    .company-item {
+      border: 1px solid #e1e1e1;
+      background: #fff;
+      text-align: center;
+      @media only screen and (max-width: 767px){
+        //width: 40% !important;
+        margin-bottom: 30px;
+
+      }
+      &:hover {
+        transition: background 0.2s linear;
+        background: #44494b;
+        border: 1px solid #fff;
+        .company-meta {
+          border-top: 1px solid #fff;
+          .company-name, p {
+            color: #fff !important;
+          }
+        }
+      }
+      .company-thumbnail {
+        padding: 15px;
+        img {
+          height: 100px;
+          width: auto;
+        }
+      }
+      .company-meta {
+        border-top: 1px solid #e1e1e1;
+        padding: 0 0 5px;
+        .company-name {
+          color: #44494b;
+          font-size: 14px;
+          line-height: 30px;
+          font-weight: @font-weight-semi-bold;
+          font-family: @headings-font-family;
+          @media only screen and (max-width: 767px){
+           font-size: 12px;
+
+          }
+        }
+        p {
+          color: #44494b;
+          font-size: 14px;
+          line-height: 30px;
+          padding: 0;
+          margin: -5px 0 0;
+        }
+      }
+    }
+    .swiper-prev,
+    .swiper-next {
+      height: 25px;
+      width: 25px;
+      line-height: 25px;
+      background: @brand-primary;
+      text-align: center;
+      color: #fff;
+      font-size: 13px;
+      margin: 5px;
+      display: inline-block;
+      .border-radius(50%);
+      &:hover {
+        background: darken(@brand-primary, 25%);
+      }
+    }
+    .company-pagination {
+      margin: 25px 0 12px;
+    }
+  }
+  &.style-slider {
+    padding: 30px;
+    .company-item {
+      text-align: center;
+      padding: 35px 30px 1px;
+      margin: 0 15px;
+      position: relative;
+      border: 1px solid #ddd;
+      .transition (all 0.3s ease-in-out);
+      &:hover {
+        .box-shadow(0 0 21px -3px #ddd);
+      }
+      .company-thumbnail {
+        img {
+          height: 100px;
+          width: auto;
+        }
+      }
+      .company-meta {
+        margin-top: 30px;
+        margin-bottom: 15px;
+        .company-name {
+          font-family: @headings-font-family;
+          font-weight: @font-weight-semi-bold;
+        }
+        p {
+          margin-top: 0;
+        }
+      }
+    }
+    .owl-wrapper {
+      padding: 30px 0;
+    }
+    .owl-theme .owl-controls .owl-buttons div {
+      color: #FFF;
+      display: inline-block;
+      margin: 5px;
+      width: 25px;
+      height: 25px;
+      font-size: 12px;
+      line-height: 25px;
+      background: fade(@brand-primary, 25%);
+      position: absolute;
+      top: 50%;
+      z-index: 999;
+      .translate(0, -50%);
+      .border-radius(50%);
+      &:hover {
+        background: @brand-primary;
+      }
+    }
+    .owl-buttons .owl-next {
+      right: -15px;
+      &:after {
+        content: '\f105';
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+      }
+    }
+    .owl-buttons .owl-prev {
+      left: -15px;
+      &:after {
+        content: '\f104';
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+      }
+    }
+    .owl-buttons > div {
+      position: absolute;
+      top: 45%;
+    }
+  }
+}

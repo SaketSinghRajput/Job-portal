@@ -1,0 +1,30 @@
+/* Post List */
+@media (min-width: 992px) {
+	.widefat .column-featured,
+	.widefat .column-status,
+	.widefat .column-viewable {
+		width: 8%;
+		text-align: center;
+	}
+
+	/* .widefat .column-candidate_id, */
+	.widefat .column-date,
+	.widefat .column-job_category,
+	.widefat .column-job_location {
+		width: 12%;
+	}
+}
+
+.widefat .column-job_actions {
+	width:  10%;
+}
+a.delete-pluploaded {
+	display: inline-block;
+	color: #f00;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.viewable .dashicons-hidden {
+	color: #555;
+}

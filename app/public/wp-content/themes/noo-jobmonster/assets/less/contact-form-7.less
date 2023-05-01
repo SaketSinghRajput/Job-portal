@@ -1,0 +1,222 @@
+/*
+ * 8.0 - Plugin
+ * 	8.2 - contact-form-7
+ */
+// Extend the bootstrap form style
+
+.wpcf7-form {
+  &:extend(.form-horizontal);
+}
+
+.wpcf7-form-control:not(.wpcf7-submit) {
+  // Extend the bootstrap form-control
+  &:extend(.form-control all);
+  margin-top: 5px;
+  margin-bottom: 5px;
+
+  &.wpcf7-checkbox,
+  &.wpcf7-radio {
+    height: auto;
+  }
+}
+
+.wpcf7-form-control-wrap {
+  display: block;
+  width: 100%;
+  margin-bottom: @padding-xlarge-horizontal;
+}
+
+div.wpcf7 .screen-reader-response {
+  border: 0 none;
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.wpcf7-submit {
+  .btn();
+  .btn-primary();
+  padding: 10px 30px;
+  margin-top: 0;
+  float: right;
+  width: auto;
+  text-transform: uppercase;
+  font-weight: @font-weight-semi-bold;
+  font-size: @font-size-base;
+
+}
+
+.wpcf7-not-valid-tip {
+  color: #f56e6e;
+  font-size: @font-size-small;
+  display: block;
+}
+
+.wpcf7-display-none {
+  display: none;
+}
+
+div.wpcf7-response-output {
+  padding: @padding-xsmall-vertical @padding-xsmall-horizontal;
+  text-align: left;
+  margin-top: @padding-small-vertical;
+  font-size: @font-size-small;
+}
+
+div.wpcf7-validation-errors {
+  border: 1px solid #f56e6e;
+}
+
+.contact-actions {
+  display: block;
+  text-align: right;
+}
+
+.contact-form {
+  &:before {
+    content: "";
+    background: #eee;
+    width: 98%;
+    margin-right: @grid-gutter-width/2;
+    height: 1px;
+    margin-top: -50px;
+    left: 0;
+    z-index: 999;
+    margin-bottom: 50px;
+  }
+  @media (max-width: @screen-xs-max) {
+    .contact-desc {
+      padding-left: 0 !important;
+    }
+  }
+}
+
+.contact-info {
+  position: relative;
+  ul {
+    padding-left: 30px;
+    li {
+      list-style: none;
+      line-height: 40px;
+      i {
+        padding-right: 5px;
+      }
+    }
+    @media (max-width: @screen-xs-max) {
+      padding-left: 15px;
+    }
+  }
+  &:after {
+    content: "" !important;
+    width: 1px;
+    height: 160px;
+    position: absolute;
+    background: #ebebeb;
+    left: 50%;
+    top: -13px;
+    @media (max-width: @screen-xs-max) {
+      width: 0px;
+    }
+  }
+}
+
+.noo-gmaps {
+  box-shadow: 0 0 0 4px #fff;
+}
+
+.text-center {
+  .wpcf7-submit {
+    float: none;
+  }
+}
+
+.text-left {
+  .wpcf7-submit {
+    float: left;
+  }
+}
+
+.wpcf7 {
+  .fa {
+    position: relative;
+    width: 100%;
+    &:before {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      font-size: 16px;
+      color: @text-color;
+    }
+    .wpcf7-form-control {
+      font-style: italic;
+      padding-left: 50px;
+      &.wpcf7-textarea {
+        padding-top: 15px;
+      }
+    }
+  }
+}
+
+.contact-home {
+  position: relative;
+  line-height: 89px;
+  span.your-email {
+    width: 80%;
+    float: right;
+    margin-top: 5px;
+  }
+  span.submit {
+    position: absolute;
+    right: 0;
+    top: 13px;
+    float: right;
+    cursor: pointer;
+    width: 15%;
+    &:after {
+      content: '\f0e0';
+      font-family: 'Font Awesome 5 Free';
+      font-weight: 900;
+      position: absolute;
+      right: 20px;
+      top: -25px;
+      color: #acacac;
+    }
+    &:hover{
+      color: @primary-color;
+    }
+    input[type='submit'] {
+      opacity: 0;
+      padding: 10px 20px;
+      width: 100%;
+      position: absolute;
+      z-index: 1;
+    }
+  }
+  input[type='email'] {
+    height: 45px;
+    float: right;
+    .border-radius(30px);
+    border:1px solid #f5d006;
+    padding-right:20% ;
+    &::-webkit-input-placeholder {
+     font-style: italic;
+    }
+    &:-moz-placeholder {
+      font-style: italic;
+    }
+    &::-moz-placeholder {
+      font-style: italic;
+    }
+    &:-ms-input-placeholder {
+      font-style: italic;
+    }
+    &:focus {
+          border:1px solid @brand-info;
+    }
+
+  }
+}
